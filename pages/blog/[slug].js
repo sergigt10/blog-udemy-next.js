@@ -4,6 +4,11 @@ import Image from "next/image";
 import matter from "gray-matter";
 import marked from "marked";
 import Link from "next/link";
+import { faArrowAltCircleLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import "@fortawesome/fontawesome-svg-core/styles.css";
+import { config } from "@fortawesome/fontawesome-svg-core";
+config.autoAddCss = false; /* eslint-disable import/first */
 import Layout from "@/components/Layout";
 import CategoryLabel from "@/components/CategoryLabel";
 
@@ -13,8 +18,9 @@ export default function PostPage({
 }) {
 	return (
 		<Layout title={title}>
-			<Link href="/blog">Go Back</Link>
-			<div className="w-full px-10 py-6 bg-white rounded-lg shadow-md mt-6">
+			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
+			<Link href="/blog"> VOLVER</Link>
+			<div className="w-full px-10 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
 				<div className="flex justify-between items-center mt-4">
 					<h1 className="text-5xl mb-7">{title}</h1>
 					<CategoryLabel>{category}</CategoryLabel>
@@ -27,13 +33,6 @@ export default function PostPage({
 					width={1480}
 					height={854}
 				/>
-
-				<div className="flex justify-between items-center bg-gray-100 p-2 my-8">
-					<div className="flex items-center">
-						<h4>{author}</h4>
-					</div>
-					<div className="mr-4">{date}</div>
-				</div>
 
 				<div className="blog-text mt-2">
 					<div

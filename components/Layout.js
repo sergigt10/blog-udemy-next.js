@@ -12,13 +12,13 @@ export default function Layout({ title, keywords, description, children }) {
 			</Head>
 
 			<Header />
-			<main className="container mx-auto my-7">{children}</main>
+			<main className="container mx-auto px-8 my-7">{children}</main>
 		</div>
 	);
 }
 
 Layout.defaultProps = {
-	title: "Welcome to DevSpace",
+	title: "Bienvenido a DevSer",
 	keywords: "development, coding, programming",
 	description: "The best info and news about programming",
 };

@@ -10,8 +10,8 @@ export default function Post({ post }) {
 					<Image
 						src={post.frontmatter.cover_image}
 						alt={post.frontmatter.title}
-						height={420}
 						width={600}
+						height={420}
 						className="mb-4 rounded"
 					/>
 				</a>

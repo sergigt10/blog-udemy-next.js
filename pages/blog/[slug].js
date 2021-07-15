@@ -13,7 +13,7 @@ import Layout from "@/components/Layout";
 import CategoryLabel from "@/components/CategoryLabel";
 
 export default function PostPage({
-	frontmatter: { title, category, date, cover_image, author },
+	frontmatter: { title, category, cover_image },
 	content,
 }) {
 	return (

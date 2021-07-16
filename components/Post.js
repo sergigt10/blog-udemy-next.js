@@ -4,7 +4,7 @@ import CategoryLabel from "./CategoryLabel";
 
 export default function Post({ post }) {
 	return (
-		<div className="w-full px-8 py-8 mt-6 bg-gray-200 rounded-lg shadow-md ">
+		<div className="w-full px-8 py-8 mt-6 bg-gray-200 rounded-lg shadow-md">
 			<Link href={`/blog/${post.slug}`}>
 				<a>
 					<Image

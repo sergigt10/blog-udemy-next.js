@@ -21,8 +21,10 @@ export default function PostPage({
 			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
 			<Link href="/blog"> VOLVER</Link>
 			<div className="w-full px-10 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
-				<div className="flex justify-between items-center mt-4">
-					<h1 className="text-5xl mb-7">{title}</h1>
+				<div className="flex justify-between items-center mt-4 mb-7">
+					<h1 className="md:text-3xl sm:text-xl font-bold">
+						{title}
+					</h1>
 					<CategoryLabel>{category}</CategoryLabel>
 				</div>
 

@@ -15,12 +15,13 @@ async function generateSiteMap() {
 		"posts/*.md",
 	]);
 
-	const sitemap = `
-      <?xml version="1.0" encoding="UTF-8"?>
-      	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	  			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  			xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-		>
+	const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+	<urlset
+      		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
           ${pages
 				.map((page) => {
 					const path = page
@@ -30,11 +31,14 @@ async function generateSiteMap() {
 						.replace("/about", "about")
 						.replace(".js", "")
 						.replace(".md", "");
+
+					const priority = path === "/index" ? "1.0" : "0.80";
 					const route = path === "/index" ? "" : path;
 					return `
                       <url>
                           <loc>${`https://www.devser.es/${route}`}</loc>
 						  <lastmod>${getDate}</lastmod>
+						  <priority>${priority}</priority>
                       </url>
                   `;
 				})

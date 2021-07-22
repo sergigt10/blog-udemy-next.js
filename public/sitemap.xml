@@ -1,58 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset
+      		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-      <?xml version="1.0" encoding="UTF-8"?>
-      	<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	  			xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  			xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-		>
           
                       <url>
                           <loc>https://www.devser.es/blog</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/about</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>1.0</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/django-crash-course</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/javascript-performance-tips</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/new-in-php-8</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/python-book-review</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/react-crash-course</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/tailwind-vs-bootstrap</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/writing-great-unit-tests</loc>
-						  <lastmod>2021-07-22T20:11:01.767Z</lastmod>
+						  <lastmod>2021-07-22T20:26:08.364Z</lastmod>
+						  <priority>0.80</priority>
                       </url>
                   
       </urlset>

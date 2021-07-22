@@ -38,6 +38,7 @@ async function generateSiteMap() {
                       <url>
                           <loc>${`https://www.devser.es/${route}`}</loc>
 						  <lastmod>${getDate}</lastmod>
+						  <changefreq>monthly</changefreq>
 						  <priority>${priority}</priority>
                       </url>
                   `;

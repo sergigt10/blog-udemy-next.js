@@ -8,8 +8,6 @@ author: "Jane Doe"
 author_image: "https://randomuser.me/api/portraits/women/11.jpg"
 ---
 
-<!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
-
 Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
 nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
 equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;

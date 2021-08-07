@@ -1,8 +1,11 @@
 import Link from "next/link";
 import Image from "next/image";
 import CategoryLabel from "./CategoryLabel";
+import { usePlaceholder } from "hooks/usePlaceholder";
 
 export default function Post({ post }) {
+	const { toBase64, shimmer } = usePlaceholder();
+
 	return (
 		<div className="w-full px-8 py-8 mt-6 bg-gray-200 rounded-lg shadow-md">
 			<Link href={`/blog/${post.slug}`}>
@@ -13,6 +16,10 @@ export default function Post({ post }) {
 						width={600}
 						height={420}
 						className="mb-4 rounded"
+						placeholder="blur"
+						blurDataURL={`data:image/svg+xml;base64,${toBase64(
+							shimmer(700, 475)
+						)}`}
 					/>
 				</a>
 			</Link>

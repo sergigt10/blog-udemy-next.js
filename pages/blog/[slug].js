@@ -13,11 +13,14 @@ import { config } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false; /* eslint-disable import/first */
 import Layout from "@/components/Layout";
 import CategoryLabel from "@/components/CategoryLabel";
+import { usePlaceholder } from "hooks/usePlaceholder";
 
 export default function PostPage({
 	frontmatter: { title, category, cover_image },
 	content,
 }) {
+	const { toBase64, shimmer } = usePlaceholder();
+
 	const customRenderers = {
 		p(paragraph) {
 			const { node } = paragraph;
@@ -75,6 +78,10 @@ export default function PostPage({
 					className="w-full rounded"
 					width={1480}
 					height={854}
+					placeholder="blur"
+					blurDataURL={`data:image/svg+xml;base64,${toBase64(
+						shimmer(700, 475)
+					)}`}
 				/>
 
 				<div className="blog-text mt-2">

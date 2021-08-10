@@ -22,14 +22,14 @@ export default function Header() {
 							Blog
 						</a>
 					</Link>
-					<Link href="/about">
+					<Link href="/sobre-nosotros">
 						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200 font-mono">
-							Sobre mi
+							¿Quiénes somos?
 						</a>
 					</Link>
-					<Link href="mailto:info@devser.es">
+					<Link href="/aviso-legal">
 						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200 font-mono">
-							info@devser.es
+							Aviso legal
 						</a>
 					</Link>
 				</nav>

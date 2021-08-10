@@ -8,70 +8,42 @@
           
                       <url>
                           <loc>https://www.devser.es/blog</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
+						  <lastmod>2021-08-10T17:11:36.864Z</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/about</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
+						  <lastmod>2021-08-10T17:11:36.864Z</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
+						  <lastmod>2021-08-10T17:11:36.864Z</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>1.0</priority>
                       </url>
                   
                       <url>
-                          <loc>https://www.devser.es/blog/django-crash-course</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
-						  <changefreq>monthly</changefreq>
-						  <priority>0.80</priority>
-                      </url>
-                  
-                      <url>
-                          <loc>https://www.devser.es/blog/javascript-performance-tips</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
-						  <changefreq>monthly</changefreq>
-						  <priority>0.80</priority>
-                      </url>
-                  
-                      <url>
-                          <loc>https://www.devser.es/blog/new-in-php-8</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
-						  <changefreq>monthly</changefreq>
-						  <priority>0.80</priority>
-                      </url>
-                  
-                      <url>
-                          <loc>https://www.devser.es/blog/python-book-review</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
+                          <loc>https://www.devser.es/blog/esi-grips-mtb-silicona</loc>
+						  <lastmod>2021-08-10T17:11:36.864Z</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/react-crash-course</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
+						  <lastmod>2021-08-10T17:11:36.864Z</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>0.80</priority>
                       </url>
                   
                       <url>
                           <loc>https://www.devser.es/blog/tailwind-vs-bootstrap</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
-						  <changefreq>monthly</changefreq>
-						  <priority>0.80</priority>
-                      </url>
-                  
-                      <url>
-                          <loc>https://www.devser.es/blog/writing-great-unit-tests</loc>
-						  <lastmod>2021-08-07T11:17:36.477Z</lastmod>
+						  <lastmod>2021-08-10T17:11:36.864Z</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>0.80</priority>
                       </url>

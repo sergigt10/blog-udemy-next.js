@@ -11,8 +11,8 @@ p {
 ol {
 	font-size: 110%;
 	line-height: 2.3;
-	font-weight: bold;
-	margin: 10px 0;
+	margin: 10px 50px;
+	list-style: initial;
 }
 
 .blog-text pre {
@@ -20,6 +20,23 @@ ol {
 	/* padding: 20px; */
 	margin: 20px 0;
 	line-height: 2.3;
+}
+
+.blog-text strong a {
+	background-color: #049669;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.blog-text strong a:hover {
+	background-color: #4caf50;
 }
 
 .blog-text h1 {
@@ -30,6 +47,7 @@ ol {
 .blog-text h3,
 .blog-text h4 {
 	font-size: 27px;
+	font-weight: bold;
 }
 
 /* Fix category colors in production */

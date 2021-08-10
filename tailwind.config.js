@@ -8,7 +8,7 @@ module.exports = {
 		extend: {},
 		backgroundColor: (theme) => ({
 			...theme("colors"),
-			header: "#ea5252",
+			header: "#049669",
 		}),
 	},
 	variants: {

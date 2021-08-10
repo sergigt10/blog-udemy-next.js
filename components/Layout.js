@@ -18,7 +18,7 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-	title: "Bienvenido a DevSer",
-	keywords: "development, coding, programming",
-	description: "The best info and news about programming",
+	title: "Blog Ciclismo, MTB, Ofertas MTB",
+	keywords: "Blog Ciclismo, MTB, Ofertas MTB",
+	description: "Encuentra las mejores ofertas en productos para tu bicicleta",
 };

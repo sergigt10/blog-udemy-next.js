@@ -10,7 +10,7 @@ export default function CategoryList({ categories }) {
 				{categories.map((category, index) => (
 					<Link
 						key={index}
-						href={`/blog/category/${category.toLowerCase()}`}
+						href={`/blog/categoria/${category.toLowerCase()}`}
 						passHref
 					>
 						<li className="p-4 cursor-pointer hover:bg-gray-100">

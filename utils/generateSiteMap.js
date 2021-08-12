@@ -9,7 +9,7 @@ async function generateSiteMap() {
 		"!pages/_*.js",
 		"!pages/**/[id].js",
 		"!pages/api",
-		"!pages/blog/category",
+		"!pages/blog/categoria",
 		"!pages/blog/page",
 		"!pages/blog/*.js",
 		"posts/*.md",

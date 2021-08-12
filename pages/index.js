@@ -7,7 +7,7 @@ export default function HomePage({ posts }) {
 	return (
 		<Layout>
 			<h1 className="text-3xl font-bold border-b-4 p-3 mt-6">
-				Últimos posts
+				Últimas publicaciones
 			</h1>
 
 			<div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
@@ -18,7 +18,7 @@ export default function HomePage({ posts }) {
 
 			<Link href="/blog">
 				<a className="block bg-header text-center border border-white text-white rounded-md py-4 my-5 transition duration-500 ease select-none hover:text-white hover:bg-gray-900 focus:outline-none focus:shadow-outline w-full">
-					MÁS POSTS
+					MÁS PUBLICACIONES
 				</a>
 			</Link>
 		</Layout>

@@ -5,6 +5,7 @@ export default function CategoryLabel({ children }) {
 		Accesorios: "blue",
 		Mantenimiento: "green",
 		Ropa: "purple",
+		Reparación: "red",
 	};
 
 	return (

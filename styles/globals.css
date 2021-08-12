@@ -22,6 +22,10 @@ ol {
 	line-height: 2.3;
 }
 
+.blog-text p strong {
+	display: flex;
+}
+
 .blog-text strong a {
 	background-color: #049669;
 	border: none;
@@ -33,6 +37,7 @@ ol {
 	font-size: 16px;
 	margin: 4px 2px;
 	cursor: pointer;
+	margin: auto;
 }
 
 .blog-text strong a:hover {
@@ -48,6 +53,8 @@ ol {
 .blog-text h4 {
 	font-size: 27px;
 	font-weight: bold;
+	border-bottom-width: 4px;
+	border-color: #b2b8bd;
 }
 
 /* Fix category colors in production */

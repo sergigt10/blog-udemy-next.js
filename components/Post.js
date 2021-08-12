@@ -24,9 +24,9 @@ export default function Post({ post }) {
 				</a>
 			</Link>
 			<div className="flex justify-between items-center">
-				<span className="font-light text-gray-600">
+				{/* <span className="font-light text-gray-600">
 					{post.frontmatter.date}
-				</span>
+				</span> */}
 				<CategoryLabel>{post.frontmatter.category}</CategoryLabel>
 			</div>
 

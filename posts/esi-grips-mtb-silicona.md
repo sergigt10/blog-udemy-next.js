@@ -1,8 +1,8 @@
 ---
 title: "ESI Grips: Puños de silicona para MTB"
-date: "Ago 02, 2021"
+date: "May 9, 2021"
 excerpt: "Se han convertido en los más deseados por muchos usuarios de mountain bike."
-cover_image: "/images/posts/img7.jpg"
+cover_image: "/images/posts/esi-grips.jpg"
 category: "Accesorios"
 author: ""
 author_image: ""
@@ -27,9 +27,9 @@ Las ventajas de los puños de silicona para MTB son claras pero, sobre todo, se 
 
 **[Ver todos](https://www.amazon.es/s?k=ESI+Grips&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=81072d1e1fff181f5719132aa3f6df03&language=es_ES&ref_=as_li_ss_tl)**
 
-**[Ver precio en Amazon](https://www.amazon.es/ESI-Pu%C3%B1os-CHUNKY-Color-Negro/dp/B003FAGDNK?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esi+grips&qid=1628527760&sr=8-1&linkCode=ll1&tag=devser-21&linkId=4e5004c8c1678fecda129bb014ce2526&language=es_ES&ref_=as_li_ss_tl)**
-
 [![Tipos ESI Grips](/images/posts/content/post-esi-grips/esi-grips-tipos.jpg)](https://www.amazon.es/ESI-Pu%C3%B1os-CHUNKY-Color-Negro/dp/B003FAGDNK?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esi+grips&qid=1628527760&sr=8-1&linkCode=ll1&tag=devser-21&linkId=4e5004c8c1678fecda129bb014ce2526&language=es_ES&ref_=as_li_ss_tl "Tipos ESI Grips")
+
+**[Ver precio en Amazon](https://www.amazon.es/ESI-Pu%C3%B1os-CHUNKY-Color-Negro/dp/B003FAGDNK?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esi+grips&qid=1628527760&sr=8-1&linkCode=ll1&tag=devser-21&linkId=4e5004c8c1678fecda129bb014ce2526&language=es_ES&ref_=as_li_ss_tl)**
 
 ## Instalación
 

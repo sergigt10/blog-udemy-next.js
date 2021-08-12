@@ -3,8 +3,6 @@ import path from "path";
 import Image from "next/image";
 import matter from "gray-matter";
 import ReactMarkdown from "react-markdown";
-import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { dracula } from "react-syntax-highlighter/dist/cjs/styles/prism";
 import Link from "next/link";
 import { faArrowAltCircleLeft } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -46,7 +44,7 @@ export default function PostPage({
 				const link = node.children[0];
 				const image = link.children[0];
 				return (
-					<div className="flex justify-center">
+					<div className="flex justify-center mt-5">
 						<a
 							href={link.properties.href}
 							target="_blank"
@@ -58,6 +56,7 @@ export default function PostPage({
 								alt={image.properties.alt}
 								height={360}
 								width={480}
+								className="rounded"
 								placeholder="blur"
 								blurDataURL={`data:image/svg+xml;base64,${toBase64(
 									shimmer(700, 475)
@@ -71,12 +70,13 @@ export default function PostPage({
 			if (node.children[0].tagName === "img") {
 				const image = node.children[0];
 				return (
-					<div className="flex justify-center">
+					<div className="flex justify-center mt-5">
 						<Image
 							src={image.properties.src}
 							alt={image.properties.alt}
-							height={200}
-							width={355}
+							height={360}
+							width={480}
+							className="rounded"
 							placeholder="blur"
 							blurDataURL={`data:image/svg+xml;base64,${toBase64(
 								shimmer(700, 475)
@@ -88,27 +88,13 @@ export default function PostPage({
 
 			return <p>{paragraph.children}</p>;
 		},
-
-		code({ node, inline, className, children, ...props }) {
-			const match = /language-(\w+)/.exec(className || "");
-			return !inline && match ? (
-				<SyntaxHighlighter
-					style={dracula}
-					language={match[1]}
-					PreTag="div"
-					{...props}
-				>
-					{String(children).replace(/\n$/, "")}
-				</SyntaxHighlighter>
-			) : (
-				<code className={className} {...props}>
-					{children}
-				</code>
-			);
-		},
 	};
 
 	return (
+		// https://www.amazon.es/WASAGA-bicicleta-velocidades-conectores-reutilizables/dp/B08BNS2JK5/ref=pd_sbs_1/260-7129431-7201449?pd_rd_w=LfNyT&pf_rd_p=dcd633b7-cb38-4615-862b-a9bd1fbbb388&pf_rd_r=YKJJCG8880MB5K42T1Z5&pd_rd_r=9bc77346-5fef-4283-b8de-e0cc908b6da1&pd_rd_wg=39GHs&pd_rd_i=B08BNJCQD6&th=1
+
+		// https://www.amazon.es/reparaci%C3%B3n-Herramientas-Reparaci%C3%B3n-Neum%C3%A1ticos-Bicicleta/dp/B097GCH7H8/ref=sr_1_8?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Reparacion+tubeless&qid=1628698908&sr=8-8
+
 		<Layout title={title}>
 			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
 			<Link href="/blog"> VOLVER</Link>

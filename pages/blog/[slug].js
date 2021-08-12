@@ -22,23 +22,6 @@ export default function PostPage({
 	const customRenderers = {
 		p(paragraph) {
 			const { node } = paragraph;
-			// if (node.children[0].tagName === "strong") {
-			// 	const strong = node.children[0];
-			// 	if (strong.children[0].tagName === "a") {
-			// 		const link = strong.children[0];
-			// 		return (
-			// 			<a
-			// 				href={link.properties.href}
-			// 				className="block bg-header text-center border border-white text-white rounded-md py-4 my-5 transition duration-500 ease select-none hover:text-white hover:bg-gray-900 focus:outline-none focus:shadow-outline w-full"
-			// 				target="_blank"
-			// 				alt={link.properties.title}
-			// 				rel="noopener noreferrer"
-			// 			>
-			// 				Hola
-			// 			</a>
-			// 		);
-			// 	}
-			// }
 
 			if (node.children[0].tagName === "a") {
 				const link = node.children[0];

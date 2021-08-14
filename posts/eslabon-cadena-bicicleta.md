@@ -10,9 +10,9 @@ author_image: ""
 
 En MTB, una de las cosas que siempre debe tener en su bicicleta es el eslabón rápido. De hecho, este accesorio que ahorra espacio se puede almacenar en su bolsa bicicleta, en sus bolsillos, o simplemente colocado en un latiguillo de freno por ejemplo. En caso de rotura de la cadena, puede intervenir rápidamente utilizando un corta cadena para eliminar el resto del eslabón roto, solo tiene que instalar el eslabón rápido, que puede instalarse incluso si ya hay uno en su cadena. Siempre se tiene que tener presente el número de velocidades que tiene la cadena.
 
-[![Eslabón](/images/posts/content/post-eslabon/eslabon.jpg)](https://www.amazon.es/WASAGA-bicicleta-velocidades-conectores-reutilizables/dp/B08BNS2JK5?pd_rd_w=LfNyT&pf_rd_p=dcd633b7-cb38-4615-862b-a9bd1fbbb388&pf_rd_r=YKJJCG8880MB5K42T1Z5&pd_rd_r=9bc77346-5fef-4283-b8de-e0cc908b6da1&pd_rd_wg=39GHs&pd_rd_i=B08BNJCQD6&th=1&linkCode=ll1&tag=devser-21&linkId=a87530e56d97d53a3a99979118ad4d0c&language=es_ES&ref_=as_li_ss_tl "Eslabón")
+[![Eslabón](/images/posts/content/post-eslabon/eslabon.jpg)](https://www.amazon.es/Keenso-Bicicleta-Velocidad-Conector-Accesorio/dp/B084YSGPG6?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=eslabon+12v&qid=1628955374&sr=8-2&linkCode=ll1&tag=devser-21&linkId=8a6a38608f6c8c7b2540caba842827da&language=es_ES&ref_=as_li_ss_tl "Eslabón")
 
-**[Ver precio en Amazon](https://www.amazon.es/WASAGA-bicicleta-velocidades-conectores-reutilizables/dp/B08BNS2JK5?pd_rd_w=LfNyT&pf_rd_p=dcd633b7-cb38-4615-862b-a9bd1fbbb388&pf_rd_r=YKJJCG8880MB5K42T1Z5&pd_rd_r=9bc77346-5fef-4283-b8de-e0cc908b6da1&pd_rd_wg=39GHs&pd_rd_i=B08BNJCQD6&th=1&linkCode=ll1&tag=devser-21&linkId=a87530e56d97d53a3a99979118ad4d0c&language=es_ES&ref_=as_li_ss_tl)**
+**[Ver precio en Amazon](https://www.amazon.es/Keenso-Bicicleta-Velocidad-Conector-Accesorio/dp/B084YSGPG6?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=eslabon+12v&qid=1628955374&sr=8-2&linkCode=ll1&tag=devser-21&linkId=8a6a38608f6c8c7b2540caba842827da&language=es_ES&ref_=as_li_ss_tl)**
 
 ## Instalación
 

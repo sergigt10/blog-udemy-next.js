@@ -6,8 +6,8 @@ export default function Layout({ title, keywords, description, children }) {
 		<div className="mb-10">
 			<Head>
 				<title>{title}</title>
-				<meta name="keywords" content={keywords} />
 				<meta name="description" content={description} />
+				<meta name="keywords" content={keywords} />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
@@ -18,7 +18,7 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-	title: "Blog Ciclismo, MTB, Ofertas MTB",
+	title: "Ofertas MTB, Noticias ciclismo, Recomendaciones ciclismo",
 	keywords: "Blog Ciclismo, MTB, Ofertas MTB",
 	description: "Encuentra las mejores ofertas en productos para tu bicicleta",
 };

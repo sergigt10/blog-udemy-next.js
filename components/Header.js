@@ -13,7 +13,9 @@ export default function Header() {
 							height={40}
 							alt="logo"
 						/>
-						<span className="ml-3 font-mono text-4xl">DevSer</span>
+						<span className="ml-3 font-mono text-4xl">
+							Bici MTB
+						</span>
 					</a>
 				</Link>
 				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">

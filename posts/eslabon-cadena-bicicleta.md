@@ -12,7 +12,7 @@ En MTB, una de las cosas que siempre debe tener en su bicicleta es el eslabón r
 
 [![Eslabón](/images/posts/content/post-eslabon/eslabon.jpg)](https://www.amazon.es/Keenso-Bicicleta-Velocidad-Conector-Accesorio/dp/B084YSGPG6?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=eslabon+12v&qid=1628955374&sr=8-2&linkCode=ll1&tag=devser-21&linkId=8a6a38608f6c8c7b2540caba842827da&language=es_ES&ref_=as_li_ss_tl "Eslabón")
 
-**[Ver precio en Amazon](https://www.amazon.es/Keenso-Bicicleta-Velocidad-Conector-Accesorio/dp/B084YSGPG6?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=eslabon+12v&qid=1628955374&sr=8-2&linkCode=ll1&tag=devser-21&linkId=8a6a38608f6c8c7b2540caba842827da&language=es_ES&ref_=as_li_ss_tl)**
+*[Ver precio en Amazon](https://www.amazon.es/Keenso-Bicicleta-Velocidad-Conector-Accesorio/dp/B084YSGPG6?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=eslabon+12v&qid=1628955374&sr=8-2&linkCode=ll1&tag=devser-21&linkId=8a6a38608f6c8c7b2540caba842827da&language=es_ES&ref_=as_li_ss_tl)*
 
 ## Instalación
 

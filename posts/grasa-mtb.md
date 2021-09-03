@@ -22,17 +22,17 @@ Recuerda también utilizar este tipo de grasa en la inserción de la tija, siemp
 
 [![Grasa blanca](/images/posts/content/post-grasa/grasa-blanca.jpg)](https://www.amazon.es/Massi-Grasa-Profesional-Ptfe-Blanca/dp/B00JT3W6WY?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=TUNW9XZI8PWG&dchild=1&keywords=grasa+mtb+teflon&qid=1628674564&sprefix=grasa+mtb%2Caps%2C197&sr=8-4&linkCode=ll1&tag=devser-21&linkId=3c02c91f25c742bda084a7ac3df0a5fa&language=es_ES&ref_=as_li_ss_tl "Grasa blanca")
 
-**[Ver precio en Amazon](https://www.amazon.es/Massi-Grasa-Profesional-Ptfe-Blanca/dp/B00JT3W6WY?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=TUNW9XZI8PWG&dchild=1&keywords=grasa+mtb+teflon&qid=1628674564&sprefix=grasa+mtb%2Caps%2C197&sr=8-4&linkCode=ll1&tag=devser-21&linkId=3c02c91f25c742bda084a7ac3df0a5fa&language=es_ES&ref_=as_li_ss_tl)**
+_[Ver precio en Amazon](https://www.amazon.es/Massi-Grasa-Profesional-Ptfe-Blanca/dp/B00JT3W6WY?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=TUNW9XZI8PWG&dchild=1&keywords=grasa+mtb+teflon&qid=1628674564&sprefix=grasa+mtb%2Caps%2C197&sr=8-4&linkCode=ll1&tag=devser-21&linkId=3c02c91f25c742bda084a7ac3df0a5fa&language=es_ES&ref_=as_li_ss_tl)_
 
 [![Grasa blanca](/images/posts/content/post-grasa/grasa-montaje.jpg)](https://www.amazon.es/Bompar-GRA111-Grasa-especial-montaje/dp/B00DYT4OEC?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Grasa+de+montaje&qid=1628760894&sr=8-5&linkCode=ll1&tag=devser-21&linkId=28ec992d1f5c326df554afa170ebb334&language=es_ES&ref_=as_li_ss_tl "Grasa montaje")
 
-**[Ver precio en Amazon](https://www.amazon.es/Bompar-GRA111-Grasa-especial-montaje/dp/B00DYT4OEC?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Grasa+de+montaje&qid=1628760894&sr=8-5&linkCode=ll1&tag=devser-21&linkId=28ec992d1f5c326df554afa170ebb334&language=es_ES&ref_=as_li_ss_tl)**
+_[Ver precio en Amazon](https://www.amazon.es/Bompar-GRA111-Grasa-especial-montaje/dp/B00DYT4OEC?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Grasa+de+montaje&qid=1628760894&sr=8-5&linkCode=ll1&tag=devser-21&linkId=28ec992d1f5c326df554afa170ebb334&language=es_ES&ref_=as_li_ss_tl)_
 
 En caso de que una de ellas (cuadro o tija), o las dos, sean de carbono, habría que usar una pasta especial para carbono, menos agresiva con este material que, además, no necesita lubricarse de la misma manera que el metal. Antes de aplicar la grasa debemos limpiar bien la zona, retirando con un papel los restos de suciedad y grasa antigua.
 
 [![Grasa verde](/images/posts/content/post-grasa/grasa-verde.jpg)](https://www.amazon.es/MIGOU-BCN-montaje-bicicleta-GRAFENO/dp/B09773BS8L?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=grasa+mtb&qid=1628674260&sr=8-6&linkCode=ll1&tag=devser-21&linkId=76ed68d1f1486d26b24177a64a9b9702&language=es_ES&ref_=as_li_ss_tl "Grasa verde")
 
-**[Ver precio en Amazon](https://www.amazon.es/MIGOU-BCN-montaje-bicicleta-GRAFENO/dp/B09773BS8L?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=grasa+mtb&qid=1628674260&sr=8-6&linkCode=ll1&tag=devser-21&linkId=76ed68d1f1486d26b24177a64a9b9702&language=es_ES&ref_=as_li_ss_tl)**
+_[Ver precio en Amazon](https://www.amazon.es/MIGOU-BCN-montaje-bicicleta-GRAFENO/dp/B09773BS8L?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=grasa+mtb&qid=1628674260&sr=8-6&linkCode=ll1&tag=devser-21&linkId=76ed68d1f1486d26b24177a64a9b9702&language=es_ES&ref_=as_li_ss_tl)_
 
 ## Aplicación de la grasa
 

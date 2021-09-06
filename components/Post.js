@@ -8,7 +8,7 @@ export default function Post({ post }) {
 
 	return (
 		<div className="w-full px-8 py-8 mt-6 bg-gray-200 rounded-lg shadow-md">
-			<Link href={`/blog/${post.slug}`}>
+			<Link href={`/ofertas-mtb/${post.slug}`}>
 				<a>
 					<Image
 						src={post.frontmatter.cover_image}
@@ -31,7 +31,7 @@ export default function Post({ post }) {
 			</div>
 
 			<div className="mt-2">
-				<Link href={`/blog/${post.slug}`}>
+				<Link href={`/ofertas-mtb/${post.slug}`}>
 					<a className="text-2xl text-gray-700 font-bold hover:underline">
 						{post.frontmatter.title}
 					</a>
@@ -39,10 +39,15 @@ export default function Post({ post }) {
 				<p className="mt-2 text-gray-600">{post.frontmatter.excerpt}</p>
 			</div>
 
-			<div className="flex items-center mt-6">
-				<Link href={`/blog/${post.slug}`}>
+			<div className="flex justify-between items-center mt-6">
+				<Link href={`/ofertas-mtb/${post.slug}`}>
 					<a className="text-gray-700 hover:text-gray-600 hover:underline font-bold">
 						+ Información
+					</a>
+				</Link>
+				<Link href={`/ofertas-mtb/${post.frontmatter.url_affiliate}`}>
+					<a className="bg-black hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
+						Ver oferta
 					</a>
 				</Link>
 			</div>

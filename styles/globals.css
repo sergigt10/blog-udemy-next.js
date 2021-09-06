@@ -5,11 +5,12 @@
 p {
 	margin: 15px 0;
 	line-height: 1.8;
+	font-size: 18px;
 }
 
 .blog-text ul,
 ol {
-	font-size: 110%;
+	font-size: 18px;
 	line-height: 2.3;
 	margin: 10px 50px;
 	list-style: initial;

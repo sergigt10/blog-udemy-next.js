@@ -74,9 +74,9 @@ export default function PostPage({
 	};
 
 	return (
-		<Layout title={title + ", prova, mtb"}>
+		<Layout title={title + ", bicicletas de montaña, ofertas MTB"}>
 			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
-			<Link href="/blog"> VOLVER</Link>
+			<Link href="/ofertas-mtb"> VOLVER</Link>
 			<div className="flex justify-center">
 				<div className=" sm:w-12/12 md:w-10/12 px-10 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
 					<div className="flex justify-between items-center mt-4 mb-7">

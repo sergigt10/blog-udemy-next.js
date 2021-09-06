@@ -6,6 +6,10 @@ export default function CategoryLabel({ children }) {
 		Mantenimiento: "green",
 		Ropa: "purple",
 		Reparación: "red",
+		Electrónica: "yellow",
+		Zapatillas: "gray",
+		Componentes: "pink",
+		Nutrición: "indigo",
 	};
 
 	return (
@@ -13,7 +17,7 @@ export default function CategoryLabel({ children }) {
 			className={`px-2 py-1 bg-${colorKey[children]}-600 text-white rounded`}
 		>
 			{/* bg-${colorKey[children]}-600 */}
-			<Link href={`/blog/categoria/${children.toLowerCase()}`}>
+			<Link href={`/ofertas-mtb/categoria/${children.toLowerCase()}`}>
 				{children}
 			</Link>
 		</div>

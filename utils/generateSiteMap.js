@@ -9,9 +9,9 @@ async function generateSiteMap() {
 		"!pages/_*.js",
 		"!pages/**/[id].js",
 		"!pages/api",
-		"!pages/blog/categoria",
-		"!pages/blog/page",
-		"!pages/blog/*.js",
+		"!pages/ofertas-mtb/categoria",
+		"!pages/ofertas-mtb/page",
+		"!pages/ofertas-mtb/*.js",
 		"posts/*.md",
 	]);
 
@@ -26,8 +26,8 @@ async function generateSiteMap() {
 				.map((page) => {
 					const path = page
 						.replace("pages", "")
-						.replace("posts", "blog")
-						.replace("/404", "blog")
+						.replace("posts", "ofertas-mtb")
+						.replace("/404", "ofertas-mtb")
 						.replace("/about", "about")
 						.replace(".js", "")
 						.replace(".md", "");

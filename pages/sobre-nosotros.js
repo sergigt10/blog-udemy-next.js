@@ -9,9 +9,9 @@ export default function AboutPage() {
 
 			<div className="w-full px-8 py-8 mt-6 bg-gray-200 rounded-lg shadow-md">
 				<p className="mb-3">
-					Somos un blog especializado en el mundo del ciclismo donde
-					proponemos productos que pueden ser útiles para disfrutar
-					del ciclismo.
+					Somos un blog especializado en el mundo del ciclismo MTB
+					donde proponemos productos que pueden ser útiles para
+					disfrutar del ciclismo.
 				</p>
 			</div>
 		</Layout>

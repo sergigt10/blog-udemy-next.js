@@ -1,7 +1,7 @@
 ---
 title: "Neumáticos MTB Maxxis"
 date: "August 14, 2021"
-excerpt: "Estos neumáticos nunca defraudan."
+excerpt: "Esta marca nunca defrauda."
 cover_image: "/images/posts/content/post-neumaticos-maxxis/portada-neumaticos-maxxis.jpg"
 category: "Componentes"
 author: ""

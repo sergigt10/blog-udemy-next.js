@@ -1,6 +1,8 @@
 import fs from "fs";
 import path from "path";
 import Layout from "@/components/Layout";
+import Link from "next/link";
+import Image from "next/image";
 import Post from "@/components/Post";
 import Pagination from "@/components/Pagination";
 import CategoryList from "@/components/CategoryList";
@@ -27,6 +29,42 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 
 				<div className="md:w-1/4">
 					<CategoryList categories={categories} />
+
+					<div className="flex justify-center mt-10">
+						<Link
+							href="http://www.amazon.es/prime?tag=devser-21"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<a>
+								<Image
+									src="/images/ads/amazon-prime-column.jpg"
+									width={295}
+									height={246}
+									className="rounded"
+									alt="Amazon Prime"
+								/>
+							</a>
+						</Link>
+					</div>
+
+					<div className="flex justify-center mt-10">
+						<Link
+							href="http://www.amazon.es/joinstudent?tag=devser-21"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							<a>
+								<Image
+									src="/images/ads/amazon-prime-student-column.jpg"
+									width={295}
+									height={246}
+									className="rounded"
+									alt="Amazon Prime"
+								/>
+							</a>
+						</Link>
+					</div>
 				</div>
 			</div>
 		</Layout>

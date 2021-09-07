@@ -41,6 +41,11 @@ export default function Header() {
 							Aviso legal
 						</a>
 					</Link>
+					<Link href="mailto:info@devser.es">
+						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+							Contacto
+						</a>
+					</Link>
 				</nav>
 			</div>
 		</header>

@@ -60,7 +60,7 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 									width={295}
 									height={246}
 									className="rounded"
-									alt="Amazon Prime"
+									alt="Amazon Prime Student"
 								/>
 							</a>
 						</Link>

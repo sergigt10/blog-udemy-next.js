@@ -45,7 +45,7 @@ export default function Post({ post }) {
 						+ Información
 					</a>
 				</Link>
-				<Link href={`/ofertas-mtb/${post.frontmatter.url_affiliate}`}>
+				<Link href={`${post.frontmatter.url_affiliate}`}>
 					<a className="bg-black hover:bg-green-600 text-white font-bold py-2 px-4 rounded">
 						Ver oferta
 					</a>

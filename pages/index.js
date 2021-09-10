@@ -7,7 +7,7 @@ export default function HomePage({ posts }) {
 	return (
 		<Layout>
 			<h1 className="text-3xl font-bold border-b-4 p-3 mt-6">
-				Últimas recomendaciones para tu bici
+				Últimas recomendaciones para tu bicicleta MTB
 			</h1>
 
 			<div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">

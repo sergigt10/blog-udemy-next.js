@@ -14,7 +14,7 @@ import CategoryLabel from "@/components/CategoryLabel";
 import { usePlaceholder } from "hooks/usePlaceholder";
 
 export default function PostPage({
-	frontmatter: { title, category, cover_image },
+	frontmatter: { title, category, cover_image, url_affiliate },
 	content,
 }) {
 	const { toBase64, shimmer } = usePlaceholder();
@@ -85,18 +85,25 @@ export default function PostPage({
 						</h1>
 						<CategoryLabel>{category}</CategoryLabel>
 					</div>
-
-					<Image
-						src={cover_image}
-						alt={title}
-						className="w-full rounded"
-						width={1440}
-						height={960}
-						placeholder="blur"
-						blurDataURL={`data:image/svg+xml;base64,${toBase64(
-							shimmer(700, 475)
-						)}`}
-					/>
+					<Link href={url_affiliate}>
+						<a
+							href="_blank"
+							alt="ofertas MTB"
+							rel="noopener noreferrer"
+						>
+							<Image
+								src={cover_image}
+								alt={title}
+								className="w-full rounded"
+								width={1440}
+								height={960}
+								placeholder="blur"
+								blurDataURL={`data:image/svg+xml;base64,${toBase64(
+									shimmer(700, 475)
+								)}`}
+							/>
+						</a>
+					</Link>
 
 					<div className="blog-text mt-2">
 						<div>
@@ -108,7 +115,11 @@ export default function PostPage({
 							</ReactMarkdown>
 							<div className="flex justify-center mt-10">
 								<Link href="https://www.amazon.es?&linkCode=ll2&tag=devser-21&linkId=f0a45e125123ce48f507736e230127e9&language=es_ES&ref_=as_li_ss_tl">
-									<a target="_blank">
+									<a
+										target="_blank"
+										alt="ofertas MTB"
+										rel="noopener noreferrer"
+									>
 										<Image
 											src="/images/posts/banner-amazon-1.jpg"
 											alt={title}

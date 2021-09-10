@@ -7,6 +7,12 @@ class MyDocument extends Document {
 		return (
 			<Html lang="es">
 				<Head>
+					{/* Google Adsense */}
+					<script
+						data-ad-client="ca-pub-6725465146144414"
+						async
+						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+					></script>
 					{/* Global Site Tag (gtag.js) - Google Analytics */}
 					<script
 						async

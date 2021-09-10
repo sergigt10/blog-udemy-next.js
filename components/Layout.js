@@ -9,6 +9,11 @@ export default function Layout({ title, keywords, description, children }) {
 				<meta name="description" content={description} />
 				<meta name="keywords" content={keywords} />
 				<link rel="icon" href="/favicon.ico" />
+				<script
+					data-ad-client="ca-pub-6725465146144414"
+					async
+					src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+				></script>
 			</Head>
 
 			<Header />
@@ -22,5 +27,5 @@ Layout.defaultProps = {
 	keywords:
 		"Bicicleta de montaña, Ofertas MTB, Recomendaciones MTB, Chollo MTB, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB",
 	description:
-		"En biciMTB puedes encontrar las mejores ofertas y recomendaciones en productos para tu bicicleta de montaña.",
+		"En biciMTB puedes encontrar las mejores ofertas y recomendaciones en productos para tu bicicleta de montaña",
 };

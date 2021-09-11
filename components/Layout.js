@@ -18,9 +18,9 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-	title: "Bicicleta de montaña, Ofertas MTB, Recomendaciones MTB",
+	title: "Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB",
 	keywords:
-		"Bicicleta de montaña, Ofertas MTB, Recomendaciones MTB, Chollo MTB, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB",
+		"Bicicleta de montaña, Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB, Chollo MTB, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB",
 	description:
 		"En biciMTB puedes encontrar las mejores ofertas y recomendaciones en productos para tu bicicleta de montaña.",
 };

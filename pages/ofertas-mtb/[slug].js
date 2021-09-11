@@ -27,47 +27,68 @@ export default function PostPage({
 				const link = node.children[0];
 				const image = link.children[0];
 				return (
-					<div className="flex justify-center mt-5">
-						<a
-							href={link.properties.href}
-							target="_blank"
-							alt={link.properties.title}
-							rel="noopener noreferrer"
-						>
-							<Image
-								src={image.properties.src}
-								alt={image.properties.alt}
-								height={360}
-								width={480}
-								className="rounded"
-								placeholder="blur"
-								blurDataURL={`data:image/svg+xml;base64,${toBase64(
-									shimmer(700, 475)
-								)}`}
-							/>
-						</a>
+					<div>
+						<div className="flex justify-center mt-5">
+							<a
+								href={link.properties.href}
+								target="_blank"
+								alt={link.properties.title}
+								rel="noopener noreferrer"
+							>
+								<Image
+									src={image.properties.src}
+									alt={image.properties.alt}
+									height={360}
+									width={480}
+									className="rounded-lg"
+									placeholder="blur"
+									blurDataURL={`data:image/svg+xml;base64,${toBase64(
+										shimmer(700, 475)
+									)}`}
+								/>
+							</a>
+						</div>
+						<div className="flex justify-center mt-2">
+							<a
+								href={link.properties.href}
+								target="_blank"
+								alt={link.properties.title}
+								rel="noopener noreferrer"
+							>
+								<Image
+									src="/images/posts/5-estrellas.png"
+									alt={image.properties.alt}
+									height={57}
+									width={300}
+									placeholder="blur"
+									blurDataURL={`data:image/svg+xml;base64,${toBase64(
+										shimmer(700, 475)
+									)}`}
+								/>
+							</a>
+						</div>
 					</div>
 				);
 			}
 
-			if (node.children[0].tagName === "img") {
-				const image = node.children[0];
-				return (
-					<div className="flex justify-center mt-5">
-						<Image
-							src={image.properties.src}
-							alt={image.properties.alt}
-							height={360}
-							width={480}
-							className="rounded"
-							placeholder="blur"
-							blurDataURL={`data:image/svg+xml;base64,${toBase64(
-								shimmer(700, 475)
-							)}`}
-						/>
-					</div>
-				);
-			}
+			// if (node.children[0].tagName === "img") {
+			// 	const image = node.children[0];
+			// 	return (
+			// 		<div className="flex justify-center mt-5">
+			// 			<Image
+			// 				src={image.properties.src}
+			// 				alt={image.properties.alt}
+			// 				height={360}
+			// 				width={480}
+			// 				className="rounded-lg"
+			// 				placeholder="blur"
+			// 				blurDataURL={`data:image/svg+xml;base64,${toBase64(
+			// 					shimmer(700, 475)
+			// 				)}`}
+			// 			/>
+			// 		</div>
+			// 	);
+			// }
 
 			return <p>{paragraph.children}</p>;
 		},
@@ -94,7 +115,7 @@ export default function PostPage({
 							<Image
 								src={cover_image}
 								alt={title}
-								className="w-full rounded"
+								className="w-full rounded-lg"
 								width={1440}
 								height={960}
 								placeholder="blur"

@@ -8,6 +8,14 @@ p {
 	font-size: 18px;
 }
 
+li a strong:hover {
+	color: #049669;
+}
+
+p a strong:hover {
+	color: #049669;
+}
+
 .blog-text ul,
 ol {
 	font-size: 18px;
@@ -55,6 +63,7 @@ ol {
 .blog-text h2,
 .blog-text h3,
 .blog-text h4 {
+	margin-top: 25px;
 	font-size: 27px;
 	font-weight: bold;
 	border-bottom-width: 4px;

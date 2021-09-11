@@ -1,7 +1,7 @@
 ---
 title: "Eslabón para la cadena MTB"
 date: "May 4, 2021"
-excerpt: "Un eslabón rápido puede ponerse y quitarse de manera sencilla únicamente con las manos."
+excerpt: "Un eslabón rápido puede ponerse y quitarse de manera sencilla."
 cover_image: "/images/posts/content/post-eslabon/portada-eslabon.jpg"
 category: "Reparación"
 author: ""

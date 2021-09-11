@@ -15,7 +15,7 @@ export default function Post({ post }) {
 						alt={post.frontmatter.title}
 						width={600}
 						height={420}
-						className="mb-4 rounded"
+						className="mb-4 rounded-lg"
 						placeholder="blur"
 						blurDataURL={`data:image/svg+xml;base64,${toBase64(
 							shimmer(700, 475)

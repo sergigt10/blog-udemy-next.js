@@ -11,14 +11,14 @@ url_affiliate: "https://www.amazon.es/Massi-Grasa-Profesional-Ptfe-Blanca/dp/B00
 
 Para un correcto funcionamiento de todas las partes de nuestra bicicleta es importante engrasar cada cierto tiempo los **rodamientos y las juntas**. Este engrase además de alargar la vida útil de los componentes, también hará que la bicicleta vaya **más fina y sin crujidos**. [**En el mercado vamos a encontrar varios tipos de grasas.**](https://www.amazon.es/s?k=grasa+bicicleta+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1L55DAVUNASXY&sprefix=grasas+bici%2Caps%2C204&linkCode=ll2&tag=devser-21&linkId=2827eb90f9e7d0e51cfac846b925e770&language=es_ES&ref_=as_li_ss_tl)
 
-**Cada grasa, según su composición, va a estar indicada para una parte concreta de la bicicleta. No todas valen para todo**
+**Cada grasa, según su composición, va a estar indicada para una parte concreta de la bicicleta. No todas valen para todo.**
 
 ## Tipos de grasas
 
-- [**Grasas con teflón**](https://www.amazon.es/s?k=Grasas+con+tefl%C3%B3n+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=d733bfe93a0ee9c2197fa2a9705c1f07&language=es_ES&ref_=as_li_ss_tl)
-- [**Pasta o grasa de montaje**](https://www.amazon.es/s?k=Pasta+o+grasa+de+montaje+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=f796c1a0a5df82039687390c9760b970&language=es_ES&ref_=as_li_ss_tl)
-- [**Pasta o grasa de fricción**](https://www.amazon.es/s?k=Pasta+o+grasa+de+fricci%C3%B3n+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=41ad76b8ac59be860149aab7cc8701d4&language=es_ES&ref_=as_li_ss_tl)
-- [**Grasas de litio**](https://www.amazon.es/s?k=Grasas+de+litio+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=4094d88b7c06d397e8e69838fb4f4240&language=es_ES&ref_=as_li_ss_tl)
+- [**Grasas con teflón (Pivotes de las bicicletas de doble suspensión, o entre la potencia y la horquilla)**](https://www.amazon.es/s?k=Grasas+con+tefl%C3%B3n+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=d733bfe93a0ee9c2197fa2a9705c1f07&language=es_ES&ref_=as_li_ss_tl)
+- [**Pasta o grasa de montaje (Rodamientos de los bujes de las ruedas)**](https://www.amazon.es/s?k=Pasta+o+grasa+de+montaje+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=f796c1a0a5df82039687390c9760b970&language=es_ES&ref_=as_li_ss_tl)
+- [**Pasta o grasa de fricción (Componentes que hacen que no sea necesario un apriete muy fuerte entre dos componentes)**](https://www.amazon.es/s?k=Pasta+o+grasa+de+fricci%C3%B3n+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=41ad76b8ac59be860149aab7cc8701d4&language=es_ES&ref_=as_li_ss_tl)
+- [**Grasas de litio (Eje pedalier)**](https://www.amazon.es/s?k=Grasas+de+litio+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=4094d88b7c06d397e8e69838fb4f4240&language=es_ES&ref_=as_li_ss_tl)
 
 _[Ver más](https://www.amazon.es/s?k=grasas+mtb&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=f10c8ab21d9da34a6db5cb22a8dcd484&language=es_ES&ref_=as_li_ss_tl)_
 

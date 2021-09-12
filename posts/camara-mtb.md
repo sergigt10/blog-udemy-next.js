@@ -1,7 +1,7 @@
 ---
 title: "Cámara MTB con sellante"
 date: "August 24, 2021"
-excerpt: "La mejor alternativa al tubeless."
+excerpt: "La mejor alternativa al sistema tubeless."
 cover_image: "/images/posts/content/post-camaras-mtb/portada-camaras-mtb.jpg"
 category: "Componentes"
 author: ""

@@ -15,7 +15,7 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 			<div className="flex justify-between flex-col md:flex-row">
 				<div className="md:w-3/4 md:mr-10">
 					<h1 className="text-3xl border-b-4 p-3 font-bold mt-6">
-						Recomendaciones MTB
+						Recomendaciones y ofertas MTB
 					</h1>
 
 					<div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">

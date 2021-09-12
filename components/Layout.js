@@ -1,9 +1,10 @@
 import Head from "next/head";
 import Header from "./Header";
+import Footer from "./Footer";
 
 export default function Layout({ title, keywords, description, children }) {
 	return (
-		<div className="mb-10">
+		<div>
 			<Head>
 				<title>{title}</title>
 				<meta name="description" content={description} />
@@ -12,13 +13,14 @@ export default function Layout({ title, keywords, description, children }) {
 			</Head>
 
 			<Header />
-			<main className="container mx-auto px-8 my-7">{children}</main>
+			<main className="container mx-auto px-5 my-7">{children}</main>
+			<Footer />
 		</div>
 	);
 }
 
 Layout.defaultProps = {
-	title: "Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB",
+	title: "Ofertas MTB, Recomendaciones ciclismo, Recomendaciones MTB",
 	keywords:
 		"Bicicleta de montaña, Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB, Chollo MTB, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB",
 	description:

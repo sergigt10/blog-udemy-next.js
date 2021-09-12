@@ -3,8 +3,8 @@ import Link from "next/link";
 export default function Pagination({ currentPage, numPages }) {
 	const isFirst = currentPage === 1;
 	const isLast = currentPage === numPages;
-	const prevPage = `/ofertas-mtb/page/${currentPage - 1}`;
-	const nextPage = `/ofertas-mtb/page/${currentPage + 1}`;
+	const prevPage = `/ofertas-mtb/pagina/${currentPage - 1}`;
+	const nextPage = `/ofertas-mtb/pagina/${currentPage + 1}`;
 
 	if (numPages === 1) return <></>;
 
@@ -20,7 +20,7 @@ export default function Pagination({ currentPage, numPages }) {
 				)}
 				{Array.from({ length: numPages }, (_, i) => (
 					<Link
-						href={`/ofertas-mtb/page/${i + 1}`}
+						href={`/ofertas-mtb/pagina/${i + 1}`}
 						key={`page-${i}`}
 						passHref
 					>

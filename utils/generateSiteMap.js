@@ -10,7 +10,7 @@ async function generateSiteMap() {
 		"!pages/**/[id].js",
 		"!pages/api",
 		"!pages/ofertas-mtb/categoria",
-		"!pages/ofertas-mtb/page",
+		"!pages/ofertas-mtb/pagina",
 		"!pages/ofertas-mtb/*.js",
 		"posts/*.md",
 	]);

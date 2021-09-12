@@ -9,6 +9,7 @@ module.exports = {
 		backgroundColor: (theme) => ({
 			...theme("colors"),
 			header: "#049669",
+			footer: "#323232",
 		}),
 	},
 	variants: {

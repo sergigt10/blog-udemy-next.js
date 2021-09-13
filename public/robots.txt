@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.devser.es/sitemap.xml
+Sitemap: https://www.bicimtb.es/sitemap.xml

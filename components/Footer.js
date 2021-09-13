@@ -17,8 +17,23 @@ export default function Footer() {
 					</a>
 				</Link>
 				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
+					<Link href="/ofertas-mtb/gps-garmin-530-mtb">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+							GPS para MTB
+						</a>
+					</Link>
+					<Link href="/ofertas-mtb/sigma-cuentakilometros">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+							Cuentakilómetros para MTB
+						</a>
+					</Link>
+					<Link href="/ofertas-mtb/ropa-y-complementos-ciclismo-amazon">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+							Ropa para ciclismo
+						</a>
+					</Link>
 					<Link href="/ofertas-mtb">
-						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
 							Ofertas MTB
 						</a>
 					</Link>
@@ -27,12 +42,12 @@ export default function Footer() {
 						rel="noopener noreferrer"
 						href="https://www.amazon.es/ciclismo/b?ie=UTF8&node=2928487031&linkCode=ll2&tag=devser-21&linkId=10f52c9fe51b33de60abdde7722d9348&language=es_ES&ref_=as_li_ss_tl"
 					>
-						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
 							Bicicleta MTB
 						</a>
 					</Link>
 					<Link href="/aviso-legal">
-						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
 							Aviso legal
 						</a>
 					</Link>

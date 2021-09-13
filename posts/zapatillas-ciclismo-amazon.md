@@ -1,8 +1,8 @@
 ---
-title: "Zapatillas ciclismo Amazon"
+title: "Zapatillas de ciclismo Amazon"
 date: "August 13, 2021"
 excerpt: "Aprovecha las ofertas de amazon en zapatillas de ciclismo."
-cover_image: "/images/posts/content/post-zapatillas-amazon/portada-zapatillas-amazon.jpg"
+cover_image: "/images/posts/content/post-zapatillas-ciclismo-amazon/portada-zapatillas-amazon.jpg"
 category: "Zapatillas"
 author: ""
 author_image: ""
@@ -23,7 +23,7 @@ Hay marcas como **Spiuk, Northwave, Shimano,...** y de distintos colores y talla
 
 *[Ver Shimano](https://www.amazon.es/s?k=shimano+zapatillas&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=2d49c90ca11e5d5298d6753e373afaf6&language=es_ES&ref_=as_li_ss_tl)*
 
-[![Zapatillas Amazon](/images/posts/content/post-zapatillas-amazon/zapatillas-amazon.jpg)](https://www.amazon.es/s?k=zapatillas+ciclismo&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=ef4371fac4c038cb4c3af37965951ce4&language=es_ES&ref_=as_li_ss_tl "Zapatillas Amazon")
+[![Zapatillas Amazon](/images/posts/content/post-zapatillas-ciclismo-amazon/zapatillas-amazon.jpg)](https://www.amazon.es/s?k=zapatillas+ciclismo&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=ef4371fac4c038cb4c3af37965951ce4&language=es_ES&ref_=as_li_ss_tl "Zapatillas Amazon")
 
 
 

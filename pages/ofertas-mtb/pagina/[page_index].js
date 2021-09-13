@@ -18,7 +18,7 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 						Recomendaciones y ofertas MTB
 					</h1>
 
-					<div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+					<div className="grid md:grid-cols-1 lg:grid-cols-3 gap-5">
 						{posts.map((post, index) => (
 							<Post key={index} post={post} />
 						))}

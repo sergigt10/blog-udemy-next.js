@@ -17,7 +17,7 @@ export default function HomePage({ posts }) {
 			</div>
 
 			<Link href="/ofertas-mtb">
-				<a className="block bg-header text-center border-4 border-green-800 text-white rounded-md py-4 my-5 transition duration-500 ease select-none hover:text-white hover:bg-black focus:outline-none focus:shadow-outline w-full font-bold">
+				<a className="block bg-header text-center border-4 border-green-800 text-white text-xl rounded-md py-4 my-5 transition duration-500 ease select-none hover:text-white hover:bg-black focus:outline-none focus:shadow-outline w-full font-bold">
 					MÁS RECOMENDACIONES
 				</a>
 			</Link>

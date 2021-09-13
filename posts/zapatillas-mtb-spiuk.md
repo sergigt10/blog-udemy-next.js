@@ -2,7 +2,7 @@
 title: "Zapatillas ciclismo Aldapa Spiuk"
 date: "May 10, 2021"
 excerpt: "Las zapatillas Aldapa para MTB son brutales."
-cover_image: "/images/posts/content/post-spiuk/portada-spiuk.jpg"
+cover_image: "/images/posts/content/post-spiuk-mtb/portada-spiuk.jpg"
 category: "Zapatillas"
 author: ""
 author_image: ""
@@ -27,4 +27,4 @@ _[Ver oferta](https://www.amazon.es/s?k=zapatillas+spiuk&i=sporting&__mk_es_ES=%
 
 _[Ver más productos Spiuk](https://www.amazon.es/s?k=spiuk&i=sporting&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=455870b4adaa6a9ec40684bfd703f016&language=es_ES&ref_=as_li_ss_tl)_
 
-[![Zapatillas Spiuk](/images/posts/content/post-spiuk/zapatillas-spiuk.jpg)](https://www.amazon.es/s?k=zapatillas+spiuk&i=sporting&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=4ba7ab864776b552a63c1d0cb8936c7f&language=es_ES&ref_=as_li_ss_tl "Zapatillas Spiuk")
+[![Zapatillas Spiuk](/images/posts/content/post-spiuk-mtb/zapatillas-spiuk.jpg)](https://www.amazon.es/s?k=zapatillas+spiuk&i=sporting&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=4ba7ab864776b552a63c1d0cb8936c7f&language=es_ES&ref_=as_li_ss_tl "Zapatillas Spiuk")

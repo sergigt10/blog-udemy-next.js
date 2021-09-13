@@ -2,7 +2,7 @@
 title: "ESI Grips: Puños de silicona para MTB"
 date: "August 9, 2021"
 excerpt: "Se han convertido en los más deseados."
-cover_image: "/images/posts/content/post-esi-grips/portada-esi-grips.jpg"
+cover_image: "/images/posts/content/post-esi-grips-mtb/portada-esi-grips.jpg"
 category: "Accesorios"
 author: ""
 author_image: ""
@@ -28,7 +28,7 @@ Las ventajas de los [**puños de silicona para MTB**](https://www.amazon.es/s?k=
 
 *[Ver todos los productos](https://www.amazon.es/s?k=ESI+Grips&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=81072d1e1fff181f5719132aa3f6df03&language=es_ES&ref_=as*li_ss_tl)*
 
-[![Tipos ESI Grips](/images/posts/content/post-esi-grips/esi-grips-tipos.jpg)](https://www.amazon.es/ESI-Pu%C3%B1os-CHUNKY-Color-Negro/dp/B003FAGDNK?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esi+grips&qid=1628527760&sr=8-1&linkCode=ll1&tag=devser-21&linkId=4e5004c8c1678fecda129bb014ce2526&language=es_ES&ref_=as_li_ss_tl "Tipos ESI Grips")
+[![Tipos ESI Grips](/images/posts/content/post-esi-grips-mtb/esi-grips-tipos.jpg)](https://www.amazon.es/ESI-Pu%C3%B1os-CHUNKY-Color-Negro/dp/B003FAGDNK?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esi+grips&qid=1628527760&sr=8-1&linkCode=ll1&tag=devser-21&linkId=4e5004c8c1678fecda129bb014ce2526&language=es_ES&ref_=as_li_ss_tl "Tipos ESI Grips")
 
 *[Ver oferta](https://www.amazon.es/ESI-Pu%C3%B1os-CHUNKY-Color-Negro/dp/B003FAGDNK?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=esi+grips&qid=1628527760&sr=8-1&linkCode=ll1&tag=devser-21&linkId=4e5004c8c1678fecda129bb014ce2526&language=es_ES&ref_=as*li_ss_tl)*
 
@@ -38,4 +38,4 @@ Las ventajas de los [**puños de silicona para MTB**](https://www.amazon.es/s?k=
 
 Instalar puños de silicona puede ser un juego de niños… o un auténtico calvario. Su capacidad de fijación al manillar es enorme e intentar instalarlos «a pelo», directamente en el manillar, es misión casi imposible. Pero basta con usar una generosa cantidad de alcohol para que instalar los puños de silicona sea rápido y sencillo. En este vídeo la propia [**ESI Grip**](https://www.amazon.es/s?k=ESI+Grips&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=81072d1e1fff181f5719132aa3f6df03&language=es_ES&ref_=as*li_ss_tl) muestra los pasos a seguir.
 
-[![Video youtube ESI Grips](/images/posts/content/post-esi-grips/esi-grips-install.jpg)](http://www.youtube.com/watch?v=NF7XzJPsLms&t "Video youtube ESI Grips")
+[![Video youtube ESI Grips](/images/posts/content/post-esi-grips-mtb/esi-grips-install.jpg)](http://www.youtube.com/watch?v=NF7XzJPsLms&t "Video youtube ESI Grips")

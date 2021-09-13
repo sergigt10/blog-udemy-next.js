@@ -18,7 +18,7 @@ export default function AboutPage() {
 						href="https://www.amazon.es/ciclismo/b?ie=UTF8&node=2928487031&linkCode=ll2&tag=devser-21&linkId=10f52c9fe51b33de60abdde7722d9348&language=es_ES&ref_=as_li_ss_tl"
 					>
 						<a>
-							<strong>ciclismo MTB</strong>
+							<b>ciclismo MTB</b>
 						</a>
 					</Link>{" "}
 					donde proponemos productos que puedenser útiles para

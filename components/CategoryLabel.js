@@ -2,19 +2,19 @@ import Link from "next/link";
 
 export default function CategoryLabel({ children }) {
 	const colorKey = {
-		Accesorios: "blue",
-		Mantenimiento: "green",
-		Ropa: "purple",
-		Reparación: "red",
-		Electrónica: "yellow",
-		Zapatillas: "gray",
-		Componentes: "pink",
-		Nutrición: "indigo",
+		Accesorios: "Blue",
+		Mantenimiento: "Green",
+		Ropa: "Purple",
+		Reparación: "Red",
+		Electrónica: "Yellow",
+		Zapatillas: "Gray",
+		Componentes: "Pink",
+		Nutrición: "Indigo",
 	};
 
 	return (
 		<div
-			className={`px-2 py-1 bg-${colorKey[children]}-600 text-white rounded`}
+			className={`px-2 py-1 bg-category${colorKey[children]} text-white rounded`}
 		>
 			{/* bg-${colorKey[children]}-600 */}
 			<Link href={`/ofertas-mtb/categoria/${children.toLowerCase()}`}>

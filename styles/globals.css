@@ -2,6 +2,53 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Color bg */
+.bg-categoryBlue {
+	background-color: #3b82f6;
+}
+.bg-categoryGreen {
+	background-color: #059669;
+}
+.bg-categoryPurple {
+	background-color: #8b5cf6;
+}
+.bg-categoryRed {
+	background-color: #ef4444;
+}
+.bg-categoryYellow {
+	background-color: #f59e0b;
+}
+.bg-categoryGray {
+	background-color: #6b7280;
+}
+.bg-categoryPink {
+	background-color: #ec4899;
+}
+.bg-categoryIndigo {
+	background-color: #4f46e5;
+}
+
+@media (min-width: 992px) {
+	html {
+		height: 100%;
+	}
+
+	body {
+		font-family: inherit;
+		line-height: inherit;
+		position: relative;
+		padding-bottom: 6rem;
+		min-height: 100%;
+	}
+
+	.footerBottom {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		left: 0;
+	}
+}
+
 p {
 	margin: 15px 0;
 	line-height: 1.8;
@@ -13,6 +60,10 @@ li a strong:hover {
 }
 
 p a strong:hover {
+	color: #049669;
+}
+
+p a b:hover {
 	color: #049669;
 }
 

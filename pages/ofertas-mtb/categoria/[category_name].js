@@ -8,7 +8,7 @@ import { getPosts } from "@/lib/posts";
 
 export default function CategoryBlogPage({ posts, categoryName, categories }) {
 	return (
-		<Layout>
+		<Layout title="Productos bicicleta montaña, Recomendaciones MTB, Consejos MTB">
 			<div className="flex justify-between">
 				<div className="w-3/4 mr-10">
 					<h1 className="text-3xl border-b-4 p-3 font-bold mt-6 capitalize">

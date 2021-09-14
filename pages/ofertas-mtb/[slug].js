@@ -42,9 +42,7 @@ export default function PostPage({
 									width={480}
 									className="rounded-lg"
 									placeholder="blur"
-									blurDataURL={`data:image/svg+xml;base64,${toBase64(
-										shimmer(700, 475)
-									)}`}
+									blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
 								/>
 							</a>
 						</div>
@@ -61,9 +59,7 @@ export default function PostPage({
 									height={57}
 									width={300}
 									placeholder="blur"
-									blurDataURL={`data:image/svg+xml;base64,${toBase64(
-										shimmer(700, 475)
-									)}`}
+									blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
 								/>
 							</a>
 						</div>
@@ -95,7 +91,11 @@ export default function PostPage({
 	};
 
 	return (
-		<Layout title={title + ", Bicicletas de montaña, Ofertas MTB"}>
+		<Layout
+			title={
+				title + ", Recomendaciones bicicleta de montaña, Ofertas MTB"
+			}
+		>
 			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
 			<Link href="/ofertas-mtb"> VOLVER</Link>
 			<div className="flex justify-center">
@@ -119,9 +119,7 @@ export default function PostPage({
 								width={1440}
 								height={960}
 								placeholder="blur"
-								blurDataURL={`data:image/svg+xml;base64,${toBase64(
-									shimmer(700, 475)
-								)}`}
+								blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
 							/>
 						</a>
 					</Link>
@@ -148,9 +146,7 @@ export default function PostPage({
 											width={900}
 											height={200}
 											placeholder="blur"
-											blurDataURL={`data:image/svg+xml;base64,${toBase64(
-												shimmer(700, 475)
-											)}`}
+											blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
 										/>
 									</a>
 								</Link>

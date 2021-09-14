@@ -10,7 +10,7 @@ class MyDocument extends Document {
 				<Head>
 					{/* Google Adsense */}
 					<script
-						data-ad-client="ca-pub-6725465146144414"
+						data-ad-client="pub-6725465146144414"
 						async
 						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
 					></script>

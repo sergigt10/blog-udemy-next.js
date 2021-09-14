@@ -11,7 +11,7 @@ import { getPosts } from "@/lib/posts";
 
 export default function BlogPage({ posts, numPages, currentPage, categories }) {
 	return (
-		<Layout>
+		<Layout title="Recomendaciones MTB, Productos MTB, Consejos MTB">
 			<div className="flex justify-between flex-col md:flex-row">
 				<div className="md:w-3/4 md:mr-10">
 					<h1 className="text-3xl border-b-4 p-3 font-bold mt-6">

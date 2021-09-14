@@ -20,7 +20,7 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-	title: "Ofertas MTB, Recomendaciones ciclismo, Recomendaciones MTB",
+	title: "Ofertas MTB, Recomendaciones MTB, Consejos Bicicleta montaña",
 	keywords:
 		"Bicicleta de montaña, Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB, Chollo MTB, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB",
 	description:

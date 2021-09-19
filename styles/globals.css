@@ -53,6 +53,9 @@ p {
 	margin: 15px 0;
 	line-height: 1.8;
 	font-size: 18px;
+}
+
+.blog-text p {
 	text-align: justify;
 }
 

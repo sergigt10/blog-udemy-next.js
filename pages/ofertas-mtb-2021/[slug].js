@@ -98,9 +98,11 @@ export default function PostPage({
 			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
 			<Link href="/ofertas-mtb-2021"> VOLVER</Link>
 			<div className="flex justify-center">
-				<div className=" sm:w-12/12 md:w-10/12 px-10 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
+				<div className="sm:w-12/12 md:w-10/12 md:px-10 px-6 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
 					<div className="flex md:flex-row flex-col justify-between items-center mt-4 mb-7">
-						<h1 className="text-3xl font-bold">{title}</h1>
+						<h1 className="text-3xl font-bold md:pb-0 pb-5">
+							{title}
+						</h1>
 						<CategoryLabel>{category}</CategoryLabel>
 					</div>
 					<Link href={url_affiliate}>

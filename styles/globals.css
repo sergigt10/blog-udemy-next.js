@@ -55,8 +55,12 @@ p {
 	font-size: 18px;
 }
 
-.blog-text p {
+/* .blog-text p {
 	text-align: justify;
+} */
+
+.blog-text li {
+	margin-bottom: 15px;
 }
 
 li a strong:hover {
@@ -74,7 +78,7 @@ p a b:hover {
 .blog-text ul,
 ol {
 	font-size: 18px;
-	line-height: 2.1;
+	line-height: 1.8;
 	margin: 10px 50px;
 	list-style: initial;
 }

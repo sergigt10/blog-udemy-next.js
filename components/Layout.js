@@ -10,12 +10,12 @@ export default function Layout({ title, keywords, description, children }) {
 				<meta name="description" content={description} />
 				<meta name="keywords" content={keywords} />
 				<meta charset="utf-8" />
-				<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+				<meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 				<meta
 					name="viewport"
 					content="width=device-width, initial-scale=1"
 				></meta>
-				<meta http-equiv="Content-Language" content="es" />
+				<meta httpEquiv="Content-Language" content="es" />
 				<link rel="icon" href="/favicon.ico" />
 				<meta name="theme-color" content="#000" />
 			</Head>

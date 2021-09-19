@@ -18,7 +18,7 @@ export default function Header() {
 				</Link>
 				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
 					<Link href="/ofertas-mtb-2021">
-						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-300">
 							Recomendaciones MTB
 						</a>
 					</Link>
@@ -26,7 +26,7 @@ export default function Header() {
 						<a
 							target="_blank"
 							rel="noopener noreferrer nofollow"
-							className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200"
+							className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-300"
 						>
 							Mejor GPS MTB 2021
 						</a>
@@ -35,18 +35,18 @@ export default function Header() {
 						<a
 							target="_blank"
 							rel="noopener noreferrer nofollow"
-							className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200"
+							className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-300"
 						>
 							Ciclismo 2021
 						</a>
 					</Link>
 					<Link href="/sobre-nosotros">
-						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-300">
 							¿Quiénes somos?
 						</a>
 					</Link>
 					<Link href="mailto:info@devser.es">
-						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-300">
 							Contacto
 						</a>
 					</Link>

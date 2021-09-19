@@ -18,22 +18,22 @@ export default function Footer() {
 				</Link>
 				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
 					<Link href="/ofertas-mtb-2021/gps-garmin-530-mtb">
-						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Garmin edge 530 MTB
 						</a>
 					</Link>
 					<Link href="/ofertas-mtb-2021/sigma-cuentakilometros">
-						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Cuentakilómetros MTB 2021
 						</a>
 					</Link>
 					<Link href="/ofertas-mtb-2021/ropa-y-complementos-ciclismo-amazon">
-						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Ropa ciclismo 2021
 						</a>
 					</Link>
 					<Link href="/ofertas-mtb-2021">
-						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Ofertas MTB 2021
 						</a>
 					</Link>
@@ -41,13 +41,13 @@ export default function Footer() {
 						<a
 							target="_blank"
 							rel="noopener noreferrer nofollow"
-							className="mx-5 cursor-pointer uppercase hover:text-gray-200"
+							className="mx-5 cursor-pointer uppercase hover:text-gray-300"
 						>
 							Bicicleta MTB
 						</a>
 					</Link>
 					<Link href="/aviso-legal">
-						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Aviso legal
 						</a>
 					</Link>

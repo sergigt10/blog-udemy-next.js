@@ -53,6 +53,7 @@ p {
 	margin: 15px 0;
 	line-height: 1.8;
 	font-size: 18px;
+	text-align: justify;
 }
 
 li a strong:hover {
@@ -70,9 +71,16 @@ p a b:hover {
 .blog-text ul,
 ol {
 	font-size: 18px;
-	line-height: 2.3;
+	line-height: 2.1;
 	margin: 10px 50px;
 	list-style: initial;
+}
+
+@media (max-width: 991px) {
+	.blog-text ul,
+	ol {
+		margin: 10px 23px;
+	}
 }
 
 .blog-text pre {

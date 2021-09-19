@@ -16,8 +16,8 @@ export default function Layout({ title, keywords, description, children }) {
 					content="width=device-width, initial-scale=1"
 				></meta>
 				<meta http-equiv="Content-Language" content="es" />
-				<meta name="theme-color" content="#049669" />
 				<link rel="icon" href="/favicon.ico" />
+				<meta name="theme-color" content="#000" />
 			</Head>
 
 			<Header />

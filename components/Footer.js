@@ -16,7 +16,7 @@ export default function Footer() {
 						<span className="ml-3 font-mono text-4xl">BiciMTB</span>
 					</a>
 				</Link>
-				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
+				<nav className="flex md:flex-row flex-col md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
 					<Link href="/ofertas-mtb-2021/gps-garmin-530-mtb">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Garmin edge 530 MTB

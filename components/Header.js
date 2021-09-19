@@ -16,7 +16,7 @@ export default function Header() {
 						<span className="ml-3 font-mono text-4xl">BiciMTB</span>
 					</a>
 				</Link>
-				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
+				<nav className="flex md:flex-row flex-col md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
 					<Link href="/ofertas-mtb-2021">
 						<a className="mx-5 cursor-pointer uppercase text-xl hover:text-gray-300">
 							Recomendaciones MTB

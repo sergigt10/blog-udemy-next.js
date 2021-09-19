@@ -42,9 +42,57 @@ async function generateSiteMap() {
 						  <changefreq>monthly</changefreq>
 						  <priority>${priority}</priority>
                       </url>
-                  `;
+                  	`;
 				})
 				.join("")}
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/nutricion</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/electronica</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/mantenimiento</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/componentes</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/accesorios</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/ropa</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/zapatillas</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
+				<url>
+					<loc>https://www.bicimtb.es/ofertas-mtb-2021/categoria/reparacion</loc>
+					<lastmod>2021-09-19T16:33:15.619Z</lastmod>
+					<changefreq>monthly</changefreq>
+					<priority>0.80</priority>
+				</url>
       </urlset>
   `;
 

@@ -5,10 +5,11 @@ import Post from "@/components/Post";
 import CategoryList from "@/components/CategoryList";
 import matter from "gray-matter";
 import { getPosts } from "@/lib/posts";
+import { removeAccents } from "@/utils/clearCategory";
 
 export default function CategoryBlogPage({ posts, categoryName, categories }) {
 	return (
-		<Layout title="Productos bicicleta montaña, Recomendaciones MTB, Consejos MTB">
+		<Layout title="▷ Productos bicicleta montaña, Gps garmin MTB 2021, Ofertas MTB">
 			<div className="flex justify-between">
 				<div className="w-3/4 mr-10">
 					<h1 className="text-3xl border-b-4 p-3 font-bold mt-6 capitalize">
@@ -41,7 +42,7 @@ export async function getStaticPaths() {
 
 		const { data: frontmatter } = matter(markdownWithMeta);
 
-		return frontmatter.category.toLowerCase();
+		return removeAccents(frontmatter.category);
 	});
 
 	const paths = categories.map((category) => ({
@@ -63,7 +64,7 @@ export async function getStaticProps({ params: { category_name } }) {
 
 	// Filter posts by category
 	const categoryPosts = posts.filter(
-		(post) => post.frontmatter.category.toLowerCase() === category_name
+		(post) => removeAccents(post.frontmatter.category) === category_name
 	);
 
 	return {

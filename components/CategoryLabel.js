@@ -1,3 +1,4 @@
+import { removeAccents } from "@/utils/clearCategory";
 import Link from "next/link";
 
 export default function CategoryLabel({ children }) {
@@ -17,7 +18,9 @@ export default function CategoryLabel({ children }) {
 			className={`px-2 py-1 bg-category${colorKey[children]} text-white rounded`}
 		>
 			{/* bg-${colorKey[children]}-600 */}
-			<Link href={`/ofertas-mtb/categoria/${children.toLowerCase()}`}>
+			<Link
+				href={`/ofertas-mtb-2021/categoria/${removeAccents(children)}`}
+			>
 				{children}
 			</Link>
 		</div>

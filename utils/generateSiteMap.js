@@ -9,9 +9,10 @@ async function generateSiteMap() {
 		"!pages/_*.js",
 		"!pages/**/[id].js",
 		"!pages/api",
-		"!pages/ofertas-mtb/categoria",
-		"!pages/ofertas-mtb/pagina",
-		"!pages/ofertas-mtb/*.js",
+		"!pages/ofertas-mtb-2021/categoria",
+		"!pages/ofertas-mtb-2021/pagina",
+		"!pages/ofertas-mtb-2021/*.js",
+		"!pages/aviso-legal.js",
 		"posts/*.md",
 	]);
 
@@ -26,9 +27,9 @@ async function generateSiteMap() {
 				.map((page) => {
 					const path = page
 						.replace("pages", "")
-						.replace("posts", "ofertas-mtb")
-						.replace("/404", "ofertas-mtb")
-						.replace("/about", "about")
+						.replace("posts", "ofertas-mtb-2021")
+						.replace("/404", "ofertas-mtb-2021")
+						.replace("/sobre-nosotros", "sobre-nosotros")
 						.replace(".js", "")
 						.replace(".md", "");
 
@@ -36,7 +37,7 @@ async function generateSiteMap() {
 					const route = path === "/index" ? "" : path;
 					return `
                       <url>
-                          <loc>${`https://www.devser.es/${route}`}</loc>
+                          <loc>${`https://www.bicimtb.es/${route}`}</loc>
 						  <lastmod>${getDate}</lastmod>
 						  <changefreq>monthly</changefreq>
 						  <priority>${priority}</priority>

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { removeAccents } from "@/utils/clearCategory";
 
 export default function CategoryList({ categories }) {
 	return (
@@ -10,7 +11,9 @@ export default function CategoryList({ categories }) {
 				{categories.map((category, index) => (
 					<Link
 						key={index}
-						href={`/ofertas-mtb/categoria/${category.toLowerCase()}`}
+						href={`/ofertas-mtb-2021/categoria/${removeAccents(
+							category
+						)}`}
 						passHref
 					>
 						<li className="p-4 cursor-pointer hover:bg-gray-100">

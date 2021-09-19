@@ -13,10 +13,10 @@ export default function NotFoundPage() {
 					alt="Error"
 				/>
 
-				<h1 className="text-6xl my-5">Gas! Whoops!</h1>
+				<h1 className="text-6xl my-5">Gas!!! Whoops!</h1>
 
 				<h2 className="text-4xl text-gray-400 mb-5">
-					Esta página no existe. Vuelve a inicio.
+					Esta página no existe. Vuelve al inicio.
 				</h2>
 			</div>
 		</Layout>

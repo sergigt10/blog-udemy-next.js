@@ -11,38 +11,38 @@ export default function Footer() {
 							src="/images/logo.png"
 							width={40}
 							height={40}
-							alt="logo"
+							alt="BiciMTB"
 						/>
 						<span className="ml-3 font-mono text-4xl">BiciMTB</span>
 					</a>
 				</Link>
 				<nav className="flex flex-wrap md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
-					<Link href="/ofertas-mtb/gps-garmin-530-mtb">
+					<Link href="/ofertas-mtb-2021/gps-garmin-530-mtb">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
-							GPS para MTB
+							Garmin edge 530 MTB
 						</a>
 					</Link>
-					<Link href="/ofertas-mtb/sigma-cuentakilometros">
+					<Link href="/ofertas-mtb-2021/sigma-cuentakilometros">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
-							Cuentakilómetros para MTB
+							Cuentakilómetros MTB 2021
 						</a>
 					</Link>
-					<Link href="/ofertas-mtb/ropa-y-complementos-ciclismo-amazon">
+					<Link href="/ofertas-mtb-2021/ropa-y-complementos-ciclismo-amazon">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
-							Ropa para ciclismo
+							Ropa ciclismo 2021
 						</a>
 					</Link>
-					<Link href="/ofertas-mtb">
+					<Link href="/ofertas-mtb-2021">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
-							Ofertas MTB
+							Ofertas MTB 2021
 						</a>
 					</Link>
-					<Link
-						target="_blank"
-						rel="noopener noreferrer"
-						href="https://www.amazon.es/ciclismo/b?ie=UTF8&node=2928487031&linkCode=ll2&tag=devser-21&linkId=10f52c9fe51b33de60abdde7722d9348&language=es_ES&ref_=as_li_ss_tl"
-					>
-						<a className="mx-5 cursor-pointer uppercase hover:text-gray-200">
+					<Link href="https://www.amazon.es/ciclismo/b?ie=UTF8&node=2928487031&linkCode=ll2&tag=devser-21&linkId=10f52c9fe51b33de60abdde7722d9348&language=es_ES&ref_=as_li_ss_tl">
+						<a
+							target="_blank"
+							rel="noopener noreferrer nofollow"
+							className="mx-5 cursor-pointer uppercase hover:text-gray-200"
+						>
 							Bicicleta MTB
 						</a>
 					</Link>

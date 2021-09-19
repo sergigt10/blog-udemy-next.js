@@ -11,7 +11,7 @@ import { getPosts } from "@/lib/posts";
 
 export default function BlogPage({ posts, numPages, currentPage, categories }) {
 	return (
-		<Layout title="Recomendaciones MTB, Productos MTB, Consejos MTB">
+		<Layout title="▷ Recomendaciones bicicleta montaña, Productos MTB, Consejos MTB">
 			<div className="flex justify-between flex-col md:flex-row">
 				<div className="md:w-3/4 md:mr-10">
 					<h1 className="text-3xl border-b-4 p-3 font-bold mt-6">
@@ -31,12 +31,11 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 					<CategoryList categories={categories} />
 
 					<div className="flex justify-center mt-10">
-						<Link
-							href="http://www.amazon.es/prime?tag=devser-21"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<a>
+						<Link href="http://www.amazon.es/prime?tag=devser-21">
+							<a
+								target="_blank"
+								rel="noopener noreferrer nofollow"
+							>
 								<Image
 									src="/images/ads/amazon-prime-column.jpg"
 									width={295}
@@ -49,12 +48,11 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 					</div>
 
 					<div className="flex justify-center mt-10">
-						<Link
-							href="http://www.amazon.es/joinstudent?tag=devser-21"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							<a>
+						<Link href="http://www.amazon.es/joinstudent?tag=devser-21">
+							<a
+								target="_blank"
+								rel="noopener noreferrer nofollow"
+							>
 								<Image
 									src="/images/ads/amazon-prime-student-column.jpg"
 									width={295}

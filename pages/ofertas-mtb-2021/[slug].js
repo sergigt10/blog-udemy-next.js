@@ -11,14 +11,18 @@ import { config } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false; /* eslint-disable import/first */
 import Layout from "@/components/Layout";
 import CategoryLabel from "@/components/CategoryLabel";
-import { usePlaceholder } from "hooks/usePlaceholder";
 
 export default function PostPage({
-	frontmatter: { title, category, cover_image, url_affiliate },
+	frontmatter: {
+		title,
+		titleSEO,
+		descriptionSEO,
+		category,
+		cover_image,
+		url_affiliate,
+	},
 	content,
 }) {
-	const { toBase64, shimmer } = usePlaceholder();
-
 	const customRenderers = {
 		p(paragraph) {
 			const { node } = paragraph;
@@ -29,39 +33,39 @@ export default function PostPage({
 				return (
 					<div>
 						<div className="flex justify-center mt-5">
-							<a
-								href={link.properties.href}
-								target="_blank"
-								alt={link.properties.title}
-								rel="noopener noreferrer"
-							>
-								<Image
-									src={image.properties.src}
-									alt={image.properties.alt}
-									height={360}
-									width={480}
-									className="rounded-lg"
-									placeholder="blur"
-									blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
-								/>
-							</a>
+							<Link href={link.properties.href}>
+								<a
+									target="_blank"
+									rel="noopener noreferrer nofollow"
+								>
+									<Image
+										src={image.properties.src}
+										alt={image.properties.alt}
+										height={360}
+										width={480}
+										className="rounded-lg"
+										placeholder="blur"
+										blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
+									/>
+								</a>
+							</Link>
 						</div>
 						<div className="flex justify-center mt-2">
-							<a
-								href={link.properties.href}
-								target="_blank"
-								alt={link.properties.title}
-								rel="noopener noreferrer"
-							>
-								<Image
-									src="/images/posts/5-estrellas.png"
-									alt={image.properties.alt}
-									height={57}
-									width={300}
-									placeholder="blur"
-									blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
-								/>
-							</a>
+							<Link href={link.properties.href}>
+								<a
+									target="_blank"
+									rel="noopener noreferrer nofollow"
+								>
+									<Image
+										src="/images/posts/5-estrellas.png"
+										alt={image.properties.alt}
+										height={57}
+										width={300}
+										placeholder="blur"
+										blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
+									/>
+								</a>
+							</Link>
 						</div>
 					</div>
 				);
@@ -89,15 +93,10 @@ export default function PostPage({
 			return <p>{paragraph.children}</p>;
 		},
 	};
-
 	return (
-		<Layout
-			title={
-				title + ", Recomendaciones bicicleta de montaña, Ofertas MTB"
-			}
-		>
+		<Layout title={titleSEO} description={descriptionSEO}>
 			<FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
-			<Link href="/ofertas-mtb"> VOLVER</Link>
+			<Link href="/ofertas-mtb-2021"> VOLVER</Link>
 			<div className="flex justify-center">
 				<div className=" sm:w-12/12 md:w-10/12 px-10 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
 					<div className="flex justify-between items-center mt-4 mb-7">
@@ -107,11 +106,7 @@ export default function PostPage({
 						<CategoryLabel>{category}</CategoryLabel>
 					</div>
 					<Link href={url_affiliate}>
-						<a
-							href="_blank"
-							alt="ofertas MTB"
-							rel="noopener noreferrer"
-						>
+						<a target="_blank" rel="noopener noreferrer nofollow">
 							<Image
 								src={cover_image}
 								alt={title}
@@ -136,8 +131,7 @@ export default function PostPage({
 								<Link href="https://www.amazon.es?&linkCode=ll2&tag=devser-21&linkId=f0a45e125123ce48f507736e230127e9&language=es_ES&ref_=as_li_ss_tl">
 									<a
 										target="_blank"
-										alt="ofertas MTB"
-										rel="noopener noreferrer"
+										rel="noopener noreferrer nofollow"
 									>
 										<Image
 											src="/images/posts/banner-amazon-1.jpg"

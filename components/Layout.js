@@ -24,5 +24,5 @@ Layout.defaultProps = {
 	keywords:
 		"Bicicleta de montaña, Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB, Recomendaciones Bicicleta de montaña, Chollo MTB, Chollo Bicicleta de montaña, Chollo MTB 29, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB, Consejos MTB, Productos MTB",
 	description:
-		"En biciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña 2021✅. ¡Entra y cómpralos al mejor precio posible!",
+		"En biciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña 2021✅. ¡Entra y compra al mejor precio posible!",
 };

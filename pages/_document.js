@@ -8,11 +8,11 @@ class MyDocument extends Document {
 			<Html lang="es">
 				<Head>
 					{/* Google Adsense Tag */}
-					<script
+					{/* <script
 						data-ad-client="ca-pub-6725465146144414"
 						async
 						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-					></script>
+					></script> */}
 					<script
 						async
 						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6725465146144414"

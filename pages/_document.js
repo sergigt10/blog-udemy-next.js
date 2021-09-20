@@ -13,6 +13,16 @@ class MyDocument extends Document {
 						async
 						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
 					></script>
+					<script
+						dangerouslySetInnerHTML={{
+							__html: `
+									(adsbygoogle = window.adsbygoogle || []).push({
+										google_ad_client: ca-pub-6725465146144414,
+										enable_page_level_ads: true
+									});
+										`,
+						}}
+					/>
 					{/* Global Site Tag (gtag.js) - Google Analytics */}
 					<script
 						async

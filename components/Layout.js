@@ -1,8 +1,17 @@
 import Head from "next/head";
 import Header from "./Header";
 import Footer from "./Footer";
+import { useEffect } from "react";
 
 export default function Layout({ title, keywords, description, children }) {
+	useEffect(() => {
+		var ads = document.getElementsByClassName("adsbygoogle").length;
+		for (var i = 0; i < ads; i++) {
+			try {
+				(adsbygoogle = window.adsbygoogle || []).push({});
+			} catch (e) {}
+		}
+	}, []);
 	return (
 		<div>
 			<Head>

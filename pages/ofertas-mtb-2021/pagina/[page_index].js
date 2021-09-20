@@ -4,8 +4,6 @@ import Layout from "@/components/Layout";
 import Post from "@/components/Post";
 import Pagination from "@/components/Pagination";
 import CategoryList from "@/components/CategoryList";
-import Link from "next/link";
-import Image from "next/image";
 import { POSTS_PER_PAGE } from "@/config/index";
 import { getPosts } from "@/lib/posts";
 

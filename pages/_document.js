@@ -16,7 +16,7 @@ class MyDocument extends Document {
 		return (
 			<Html lang="es">
 				<Head>
-					{/* Google Adsense */}
+					{/* Google Adsense Tag */}
 					<script
 						data-ad-client="ca-pub-6725465146144414"
 						async

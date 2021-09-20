@@ -29,49 +29,6 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 
 				<div className="md:w-1/4">
 					<CategoryList categories={categories} />
-
-					<div className="flex justify-center mt-10">
-						<Link href="http://www.amazon.es/prime?tag=devser-21">
-							<a
-								target="_blank"
-								rel="noopener noreferrer nofollow"
-							>
-								<Image
-									src="/images/ads/amazon-prime-column.jpg"
-									width={295}
-									height={246}
-									className="rounded"
-									alt="Amazon Prime"
-								/>
-							</a>
-						</Link>
-					</div>
-
-					<div className="flex justify-center mt-10">
-						<Link href="http://www.amazon.es/joinstudent?tag=devser-21">
-							<a
-								target="_blank"
-								rel="noopener noreferrer nofollow"
-							>
-								<Image
-									src="/images/ads/amazon-prime-student-column.jpg"
-									width={295}
-									height={246}
-									className="rounded"
-									alt="Amazon Prime Student"
-								/>
-							</a>
-						</Link>
-					</div>
-					<div className="flex justify-center mt-10">
-						<ins
-							className="adsbygoogle"
-							data-ad-format="fluid"
-							data-ad-layout-key="-4e+co+1y-ou+145"
-							data-ad-client="ca-pub-6725465146144414"
-							data-ad-slot="5065751239"
-						></ins>
-					</div>
 				</div>
 			</div>
 		</Layout>

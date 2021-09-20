@@ -1,10 +1,18 @@
-import Footer from "@/components/Footer";
 import Document, { Html, Head, Main, NextScript } from "next/document";
+import { useEffect } from "react";
 
 import { GA_TRACKING_ID } from "../lib/gtag";
 
 class MyDocument extends Document {
 	render() {
+		useEffect(() => {
+			var ads = document.getElementsByClassName("adsbygoogle").length;
+			for (var i = 0; i < ads; i++) {
+				try {
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				} catch (e) {}
+			}
+		}, []);
 		return (
 			<Html lang="es">
 				<Head>

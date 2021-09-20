@@ -63,6 +63,13 @@ export default function BlogPage({ posts, numPages, currentPage, categories }) {
 							</a>
 						</Link>
 					</div>
+					<ins
+						className="adsbygoogle"
+						data-ad-format="fluid"
+						data-ad-layout-key="-4e+co+1y-ou+145"
+						data-ad-client="ca-pub-6725465146144414"
+						data-ad-slot="5065751239"
+					></ins>
 				</div>
 			</div>
 		</Layout>

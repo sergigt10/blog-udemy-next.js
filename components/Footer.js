@@ -17,12 +17,12 @@ export default function Footer() {
 					</a>
 				</Link>
 				<nav className="flex md:flex-row flex-col md:w-4/5 items-center md:justify-end justify-center text-base ml:ml-auto">
-					<Link href="/ofertas-mtb-2021/gps-garmin-530-mtb">
+					<Link href="/ofertas-mtb-2021/gps-garmin-edge-530-mtb">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Garmin edge 530 MTB
 						</a>
 					</Link>
-					<Link href="/ofertas-mtb-2021/sigma-cuentakilometros">
+					<Link href="/ofertas-mtb-2021/sigma-ciclismo-cuentakilometros">
 						<a className="mx-5 cursor-pointer uppercase hover:text-gray-300">
 							Cuentakilómetros MTB 2021
 						</a>

@@ -26,6 +26,22 @@ export default function Layout({ title, keywords, description, children }) {
 				></meta>
 				<meta httpEquiv="Content-Language" content="es" />
 				<link rel="icon" href="/favicon.ico" />
+				<meta
+					property="og:title"
+					content="Las mejores ofertas y recomandaciones para MTB 2021"
+				/>
+				<meta
+					property="og:description"
+					content="En BiciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña 2021✔. ¡Entra y compra al mejor precio posible!"
+				/>
+				<meta property="og:url" content="https://www.bicimtb.es" />
+				<meta property="og:site_name" content="BiciMTB" />
+				<meta
+					property="og:image"
+					content="https://www.bicimtb.es/images/logo-link.jpg"
+				/>
+				<meta property="og:type" content="website" />
+				<meta property="og:locale" content="es_ES" />
 				<meta name="theme-color" content="#049669" />
 			</Head>
 
@@ -41,5 +57,5 @@ Layout.defaultProps = {
 	keywords:
 		"Bicicleta de montaña, Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB, Recomendaciones Bicicleta de montaña, Chollo MTB, Chollo Bicicleta de montaña, Chollo MTB 29, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB, Consejos MTB, Productos MTB",
 	description:
-		"En biciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña 2021✔. ¡Entra y compra al mejor precio posible!",
+		"En BiciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña 2021✔. ¡Entra y compra al mejor precio posible!",
 };

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import Layout from "@/components/Layout";
 import Post from "@/components/Post";
 import { getPosts } from "@/lib/posts";
@@ -21,6 +22,21 @@ export default function HomePage({ posts }) {
 					MÁS RECOMENDACIONES
 				</a>
 			</Link>
+			<div className="text-center">
+				<Link href="http://www.amazon.es/prime?tag=devser-21">
+					<a target="_blank" rel="noopener noreferrer nofollow">
+						<Image
+							src="/images/ads/index-amazon-prime.jpg"
+							alt="Amazon Prime"
+							className="w-full rounded"
+							width={725}
+							height={87}
+							placeholder="blur"
+							blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
+						/>
+					</a>
+				</Link>
+			</div>
 		</Layout>
 	);
 }

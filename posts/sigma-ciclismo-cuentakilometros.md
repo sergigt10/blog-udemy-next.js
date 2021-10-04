@@ -1,7 +1,7 @@
 ---
-title: "🥇 Los mejores cuentakilómetros de la marca Sigma"
-titleSEO: "▷ Los cuentakilómetros Sigma para ciclismo son los mejores de 2021"
-descriptionSEO: "Los cuenta kms Sigma són los mejores para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Cómpralos al mejor precio!"
+titlePost: "🥇 Los mejores cuentakilómetros de la marca Sigma"
+title: "▷ Los cuentakilómetros Sigma para ciclismo son los mejores de 2021"
+description: "Los cuenta kms Sigma són los mejores para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Cómpralos al mejor precio!"
 date: "August 31, 2021"
 excerpt: "Disfruta de toda la gama Sigma de cuentakilómetros."
 cover_image: "/images/posts/content/post-sigma-cuentakilometros/portada-sigma-cuentakilometros.jpg"

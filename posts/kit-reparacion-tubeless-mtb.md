@@ -1,7 +1,7 @@
 ---
-title: "🔧 Kit de reparación tubeless para MTB"
-titleSEO: "≫ Consigua al mejor precio el kit de reparación tubeless MTB 2021"
-descriptionSEO: "No busques más, aquí encontrarás el mejor precio para el kit de reparación tubeless para tu bicicleta de montaña. ¡Entra y cómpralo al mejor precio!"
+titlePost: "🔧 Kit de reparación tubeless para MTB"
+title: "≫ Consigua al mejor precio el kit de reparación tubeless MTB 2021"
+description: "No busques más, aquí encontrarás el mejor precio para el kit de reparación tubeless para tu bicicleta de montaña. ¡Entra y cómpralo al mejor precio!"
 date: "May 10, 2021"
 excerpt: "Kit para reparar pinchazos tubeless en tu rueda MTB."
 cover_image: "/images/posts/content/post-kit-reparacion-tubeless/portada-kit-reparacion-tubeless.jpg"

@@ -1,7 +1,7 @@
 ---
-title: "👌 Zapatillas de ciclismo Spiuk Aldapa"
-titleSEO: "▷ Spiuk Aldapa las mejores zapatillas de ciclismo para MTB de 2021"
-descriptionSEO: "Las zapatillas de ciclismo Spiuk Aldapa son las mejores zapatillas para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas."
+titlePost: "👌 Zapatillas de ciclismo Spiuk Aldapa"
+title: "▷ Spiuk Aldapa las mejores zapatillas de ciclismo para MTB de 2021"
+description: "Las zapatillas de ciclismo Spiuk Aldapa son las mejores zapatillas para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas."
 date: "May 10, 2021"
 excerpt: "Las zapatillas Spiuk Aldapa para MTB son inmejorables."
 cover_image: "/images/posts/content/post-spiuk-mtb/portada-spiuk.jpg"

@@ -1,7 +1,7 @@
 ---
-title: "👌 Productos de limpieza para bicicleta"
-titleSEO: "▷ Los mejores productos de limpieza para la bicicleta de 2021"
-descriptionSEO: "Los mejores productos de limpieza para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralos al mejor precio!"
+titlePost: "👌 Productos de limpieza para bicicleta"
+title: "▷ Los mejores productos de limpieza para la bicicleta de 2021"
+description: "Los mejores productos de limpieza para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralos al mejor precio!"
 date: "August 26, 2021"
 excerpt: "Los mejores productos de limpieza para este 2021."
 cover_image: "/images/posts/content/post-limpiar-mtb/portada-limpiar-mtb.jpg"

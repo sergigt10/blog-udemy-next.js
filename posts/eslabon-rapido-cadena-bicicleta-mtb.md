@@ -1,7 +1,7 @@
 ---
-title: "⚡ Eslabón rápido de cadena MTB"
-titleSEO: "▷ Eslabón rápido de cadena al mejor precio para MTB de 2021"
-descriptionSEO: "Las mejores ofertas de eslabón rápido de cadena para tu bicicleta de montaña. Encontrarás las mejores ofertas eslabón rápido. ¡Entra y cómpralos!"
+titlePost: "⚡ Eslabón rápido de cadena MTB"
+title: "▷ Eslabón rápido de cadena al mejor precio para MTB de 2021"
+description: "Las mejores ofertas de eslabón rápido de cadena para tu bicicleta de montaña. Encontrarás las mejores ofertas eslabón rápido. ¡Entra y cómpralos!"
 date: "May 4, 2021"
 excerpt: "Un eslabón rápido puede ponerse y quitarse de manera sencilla."
 cover_image: "/images/posts/content/post-eslabon-mtb/portada-eslabon.jpg"

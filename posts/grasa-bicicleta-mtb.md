@@ -1,7 +1,7 @@
 ---
 title: "✔ ¿Qué grasas usar para tu bicicleta MTB?"
-titleSEO: "⇨ Mejor precio de grasas de bicicleta 2021"
-descriptionSEO: "Encuentra que grasas usar para tu bicicleta de montaña✔. En este artículo encontrarás las mejores ofertas ¡Entra y cómpralas al mejor precio!"
+titleSEO: "▷ Mejor precio de grasas de bicicleta 2021"
+descriptionSEO: "Encuentra que grasas usar para tu bicicleta de montaña. Aquí encontrarás las mejores ofertas de grasas bicicleta. ¡Entra y cómpralas al mejor precio!"
 date: "May 11, 2021"
 excerpt: "Es importante engrasar cada cierto tiempo los rodamientos y las juntas."
 cover_image: "/images/posts/content/post-grasa-mtb/portada-grasa.jpg"

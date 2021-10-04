@@ -1,7 +1,7 @@
 ---
 title: "🥇 Ropa y complementos de ciclismo Castelli"
-titleSEO: "➞ Ropa de ciclismo Castelli la mejor ropa para MTB de 2021"
-descriptionSEO: "La ropa de ciclismo Castelli es la mejor ropa de ciclismo de 2021✔. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralo al mejor precio!"
+titleSEO: "≫ Ropa de ciclismo Castelli la mejor ropa para MTB de 2021"
+descriptionSEO: "La ropa de ciclismo Castelli es la mejor ropa de ciclismo de 2021. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralo al mejor precio!"
 date: "May 10, 2021"
 excerpt: "Es una reconocida marca italiana de ropa y accesorios deportivos."
 cover_image: "/images/posts/content/post-castelli-ciclismo-amazon/portada-castelli.jpg"

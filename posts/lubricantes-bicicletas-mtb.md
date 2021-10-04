@@ -1,7 +1,7 @@
 ---
 title: "⭐ Lubricantes para bicicleta de montaña"
-titleSEO: "💥 Lubricantes para bicicleta de montaña mejores ofertas de 2021"
-descriptionSEO: "Encuentra los mejores lubricantes de 2021 para bicicleta de montaña ✓. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralos al mejor precio!"
+titleSEO: "▷ Lubricantes para bicicleta de montaña mejores ofertas de 2021"
+descriptionSEO: "Encuentra los mejores lubricantes de 2021 para bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralos al mejor precio!"
 date: "August 27, 2021"
 excerpt: "Los mejores lubricantes para alargar la vida de los componentes."
 cover_image: "/images/posts/content/post-lubricante-mtb/portada-lubricante-mtb.jpg"

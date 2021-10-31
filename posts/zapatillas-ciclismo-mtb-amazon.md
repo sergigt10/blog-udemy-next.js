@@ -1,6 +1,6 @@
 ---
 titlePost: "✅ Zapatillas de ciclismo Amazon"
-title: "▷ Las mejores zapatillas de ciclismo MTB de Amazon 2021"
+title: "Las mejores zapatillas de ciclismo MTB de Amazon 2021"
 description: "Encuentra las mejores zapatillas de MTB que ofrece Amazon. ¡Entra y cómpralas al mejor precio!"
 date: "August 13, 2021"
 excerpt: "Aprovecha las ofertas de amazon en zapatillas de ciclismo."

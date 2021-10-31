@@ -1,6 +1,6 @@
 ---
 titlePost: "🙌 Barritas de proteina para ciclismo 2021"
-title: "▷ Barras de proteina Premier Protein las mejores barritas de 2021"
+title: "Barras de proteina Premier Protein las mejores barritas de 2021"
 description: "Las barras Premier Protein sin azucar son las mejores barritas de proteinas de 2021. Aquí encontrarás las mejores ofertas. ¡Cómpralas al mejor precio!"
 date: "August 24, 2021"
 excerpt: "Barras de proteinas con bajo contenido en azúcar."

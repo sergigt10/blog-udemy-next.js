@@ -1,6 +1,6 @@
 ---
 titlePost: "✅ Ropa y complementos de ciclismo Amazon"
-title: "≫ Ropa y complementos para ciclismo de Amazon al mejor precio 2021"
+title: "Ropa y complementos para ciclismo de Amazon al mejor precio 2021"
 description: "Encuentra los mejores precios en ropa y complementos de ciclismo MTB que ofrece Amazon. ¡Entra y cómpralos al mejor precio!"
 date: "August 19, 2021"
 excerpt: "Ofertas de Amazon en ropa y complementos de ciclismo MTB."

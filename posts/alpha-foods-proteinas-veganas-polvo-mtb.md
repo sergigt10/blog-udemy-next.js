@@ -1,6 +1,6 @@
 ---
 titlePost: "⚡ Alpha Foods proteínas veganas 2021"
-title: "▷ Proteínas veganas Alpha Foods la mejor proteina vegana de 2021"
+title: "Proteínas veganas Alpha Foods la mejor proteina vegana de 2021"
 description: "Las proteínas veganas en polvos de Alpha Foods son el mejor complemento para el ciclismo. ¡Entra y compra las proteínas veganas con las mejores ofertas!"
 date: "September 01, 2021"
 excerpt: "Las mejores proteínas veganas en polvo para el mundo del ciclismo MTB."

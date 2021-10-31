@@ -1,6 +1,6 @@
 ---
 titlePost: "✨ Tubeless sellante antipinchazos MTB"
-title: "▷ X-sauce sellante antipinchazos el mejor sellante MTB de 2021"
+title: "X-sauce sellante antipinchazos el mejor sellante MTB de 2021"
 description: "X-sauce sellante MTB antipinchazos es el mejor sellante para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Al mejor precio!"
 date: "August 21, 2021"
 excerpt: "Productos para tubelizar tus cubiertas MTB de manera sencilla."

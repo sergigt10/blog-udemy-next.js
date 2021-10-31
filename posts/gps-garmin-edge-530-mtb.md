@@ -1,6 +1,6 @@
 ---
 titlePost: "🚀 GPS Garmin Edge 530 el mejor GPS para MTB de 2021"
-title: "▷ GPS Garmin Edge 530 el mejor GPS para MTB de 2021"
+title: "GPS Garmin Edge 530 el mejor GPS para MTB de 2021"
 description: "El GPS Garmin Edge 530 es el mejor GPS para tu bicicleta de montaña. Las mejores ofertas GPS Garmin Edge 530. ¡Entra y cómpralo al mejor precio!"
 date: "August 30, 2021"
 excerpt: "Aquí encontrarás la mejor oferta del Garmin Edge 530 MTB."

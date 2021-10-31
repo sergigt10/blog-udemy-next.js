@@ -1,6 +1,6 @@
 ---
 titlePost: "❤️ Puños de silicona para MTB ESI Grips"
-title: "▷ ESI Grips los mejores puños para MTB de 2021"
+title: "ESI Grips los mejores puños para MTB de 2021"
 description: "ESI Grips son los mejores puños para tu bicicleta de montaña. En este artículo encontrarás las mejores ofertas. ¡Entra y cómpralos al mejor precio!"
 date: "August 19, 2021"
 excerpt: "Se han convertido en los más deseados."

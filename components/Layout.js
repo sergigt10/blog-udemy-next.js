@@ -53,9 +53,9 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-    title: "▷ Las mejores ofertas y recomandaciones MTB 2021, Garmin 530 MTB",
+    title: "Las mejores ofertas y recomandaciones MTB 2021, Ofertas MTB 2021",
     keywords:
         "Bicicleta de montaña, Bicicletas de montaña, Ofertas MTB, Recomendaciones MTB, Recomendaciones Bicicleta de montaña, Chollo MTB, Chollo Bicicleta de montaña, Chollo MTB 29, Descuento MTB, Ropa MTB, Accesorios MTB, Electrónica MTB, Nutrición MTB, Zapatillas MTB, Componentes MTB, Reparación MTB, Mantenimiento MTB, Consejos MTB, Productos MTB 2021",
     description:
-        "En BiciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña. Entra y compra al mejor precio productos bicicleta.",
+        "En BiciMTB encontrarás las mejores ofertas y recomendaciones de productos para tu bicicleta de montaña. Entra y compra al mejor precio productos MTB 2021.",
 };

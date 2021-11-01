@@ -138,16 +138,16 @@ ol {
 
 /* Fix category colors in production */
 .bg-yellow-600 {
-    background-color: #d97705;
+    background-color: #ad5f04;
 }
 .bg-blue-600 {
     background: #3929eb;
 }
 .bg-green-600 {
-    background-color: #03875e;
+    background-color: #025e41;
 }
 .bg-purple-600 {
-    background-color: #7730db;
+    background-color: #5f26af;
 }
 .bg-red-600 {
     background-color: #a70b34;

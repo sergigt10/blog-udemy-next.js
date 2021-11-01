@@ -42,7 +42,7 @@ export default function Layout({ title, keywords, description, children }) {
                 />
                 <meta property="og:type" content="website" />
                 <meta property="og:locale" content="es_ES" />
-                <meta name="theme-color" content="#049669" />
+                <meta name="theme-color" content="#03875e" />
             </Head>
 
             <Header />

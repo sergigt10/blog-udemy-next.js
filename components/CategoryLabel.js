@@ -15,7 +15,7 @@ export default function CategoryLabel({ children }) {
 
     return (
         <div
-            className={`px-2 py-1 bg-category${colorKey[children]} text-white rounded font-bold`}
+            className={`px-2 py-1 bg-category${colorKey[children]} text-white rounded font-semibold`}
         >
             {/* bg-${colorKey[children]}-600 */}
             <Link

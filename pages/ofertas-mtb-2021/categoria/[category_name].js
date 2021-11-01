@@ -67,10 +67,14 @@ export async function getStaticProps({ params: { category_name } }) {
         (post) => removeAccents(post.frontmatter.category) === category_name
     );
 
+    const actualCategory = uniqueCategories.filter(
+        (uniqueCategorie) => removeAccents(uniqueCategorie) === category_name
+    );
+
     return {
         props: {
             posts: categoryPosts,
-            categoryName: category_name,
+            categoryName: actualCategory,
             categories: uniqueCategories,
         },
     };

@@ -95,8 +95,7 @@ export default function PostPage({
     };
     return (
         <Layout title={title} description={description}>
-            <FontAwesomeIcon icon={faArrowAltCircleLeft} className="text-xs" />
-            <Link href="/ofertas-mtb-2021"> VOLVER</Link>
+            <Link href="/ofertas-mtb-2021"> 🚲 VOLVER</Link>
             <div className="flex justify-center">
                 <div className="sm:w-12/12 md:w-10/12 md:px-10 px-6 py-6 bg-gray-200 rounded-lg shadow-md mt-6">
                     <div className="flex md:flex-row flex-col justify-between items-center mt-4 mb-7">
@@ -118,6 +117,25 @@ export default function PostPage({
                             />
                         </a>
                     </Link>
+
+                    <div className="text-center pt-5">
+                        <Link href=" https://www.amazon.es/gp/dmusic/promotions/AmazonMusicUnlimited?tag=21">
+                            <a
+                                target="_blank"
+                                rel="noopener noreferrer nofollow"
+                            >
+                                <Image
+                                    src="/images/ads/logo-amazon-music.png"
+                                    alt="Amazon Music"
+                                    className="w-full rounded"
+                                    width={726}
+                                    height={89}
+                                    placeholder="blur"
+                                    blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkmZZZDwADLQGEHJ0zKgAAAABJRU5ErkJggg=="
+                                />
+                            </a>
+                        </Link>
+                    </div>
 
                     <div className="blog-text mt-2">
                         <div>

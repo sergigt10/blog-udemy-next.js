@@ -71,6 +71,14 @@ Seguro para **todo tipo de superficies y materiales.**
 
 [![Limpiador de cadena de bicicleta](/images/posts/content/post-limpiar-mtb/limpiador-cadena-mtb.jpg)](https://www.amazon.es/JTENG-bicicleta-Herramienta-Maintenance-bicicletas/dp/B087RM7FFW?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14S8FJDACO2VU&dchild=1&keywords=limpiador+cadena+bicicleta&qid=1631895593&s=sports&sprefix=limpiador+c%2Csporting%2C199&sr=1-11&linkCode=ll1&tag=devser-21&linkId=8897c644587b06888e2c4eb5f9517c3c&language=es_ES&ref_=as_li_ss_tl "Limpiador de cadena de bicicleta")
 
+## Paños para limpiar la bicicleta
+
+*[Ver oferta](https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B013R7Y1SE?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pa%C3%B1os&qid=1635703106&sr=8-7&linkCode=ll1&tag=devser-21&linkId=e8faf72947645d50f5eb469f6536e185&language=es_ES&ref_=as_li_ss_tl)*
+
+*[Ver otras opciones](https://www.amazon.es/s?k=pa%C3%B1os&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&linkCode=ll2&tag=devser-21&linkId=62e56edf3d11c444bcd4fbe89546f578&language=es_ES&ref_=as_li_ss_tl)*
+
+[![Paños para limpiar la bicicleta](/images/posts/content/post-limpiar-mtb/panos.jpg)](https://www.amazon.es/AmazonBasics-Bayeta-limpieza-microfibra-unidades/dp/B013R7Y1SE?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=pa%C3%B1os&qid=1635703106&sr=8-7&linkCode=ll1&tag=devser-21&linkId=e8faf72947645d50f5eb469f6536e185&language=es_ES&ref_=as_li_ss_tl "Paños para limpiar la bicicleta")
+
 ## ⚠️ Aplicación
 
 Senzillo video para conocer más a fondo **como limpiar nuestra bicicleta MTB**.

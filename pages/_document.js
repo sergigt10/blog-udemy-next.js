@@ -3,29 +3,29 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 import { GA_TRACKING_ID } from "../lib/gtag";
 
 class MyDocument extends Document {
-	render() {
-		return (
-			<Html lang="es">
-				<Head>
-					{/* Google Adsense Tag */}
-					{/* <script
+    render() {
+        return (
+            <Html lang="es">
+                <Head>
+                    {/* Google Adsense Tag */}
+                    {/* <script
 						data-ad-client="ca-pub-6725465146144414"
 						async
 						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
 					></script> */}
-					<script
+                    {/* <script
 						async
 						src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6725465146144414"
 						crossOrigin="anonymous"
-					></script>
-					{/* Global Site Tag (gtag.js) - Google Analytics */}
-					<script
-						async
-						src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
-					/>
-					<script
-						dangerouslySetInnerHTML={{
-							__html: `
+					></script> */}
+                    {/* Global Site Tag (gtag.js) - Google Analytics */}
+                    <script
+                        async
+                        src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}
+                    />
+                    <script
+                        dangerouslySetInnerHTML={{
+                            __html: `
 								window.dataLayer = window.dataLayer || [];
 								function gtag(){dataLayer.push(arguments);}
 								gtag('js', new Date());
@@ -33,16 +33,16 @@ class MyDocument extends Document {
 									page_path: window.location.pathname,
 								});
 							`,
-						}}
-					/>
-				</Head>
-				<body>
-					<Main />
-					<NextScript />
-				</body>
-			</Html>
-		);
-	}
+                        }}
+                    />
+                </Head>
+                <body>
+                    <Main />
+                    <NextScript />
+                </body>
+            </Html>
+        );
+    }
 }
 
 export default MyDocument;
